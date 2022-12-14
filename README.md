@@ -9,3 +9,5 @@ Building Knowledge Graphs
 - HW7: Network Analysis & Clustering  
   
 - Final Project: Music KG with Recommender  
+  
+  Link to slides: https://drive.google.com/drive/u/1/folders/1YoUFcJjsLFgtA4Qg3QDGOQv_Gq40zoG6 (Deep Web)
