@@ -1,0 +1,14 @@
+SELECT ?bookseries ?bookseriesLabel (group_concat(?authorLabel;separator=",") as ?author_names) (COUNT(?bookseries) AS ?count)
+WHERE { 
+  ?bookseries wdt:P31 wd:Q277759 ;
+        wdt:P50 ?author 
+  
+  SERVICE wikibase:label { 
+    bd:serviceParam wikibase:language "en". 
+    ?author rdfs:label ?authorLabel .
+    ?bookseries rdfs:label ?bookseriesLabel .
+    }
+  }
+GROUP BY ?bookseries ?bookseriesLabel
+ORDER BY DESC(?count)
+LIMIT 10 

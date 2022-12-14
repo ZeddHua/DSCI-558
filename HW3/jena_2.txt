@@ -1,0 +1,26 @@
+PREFIX dbp: <http://dbpedia.org/property/>
+PREFIX schema: <http://schema.org/>
+PREFIX db: <http://dbpedia.org/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX lmdb: <http://data.linkedmdb.org/movie/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT DISTINCT ?actor_name ?birth_date
+WHERE {
+  SERVICE <http://dbpedia.org/sparql> {
+    SELECT DISTINCT ?dbpedia_actor ?birth_date
+    WHERE {
+      ?dbpedia_actor rdf:type dbo:Person;
+        dbp:occupation ?oc;
+        dbo:birthDate ?birth_date.
+      FILTER(REGEX(?oc, "Actress"))
+      FILTER(YEAR(?birth_date) < 1970)
+    }
+  }
+  ?actor rdf:type lmdb:actor;
+    owl:sameAs ?dbpedia_actor;
+    lmdb:actor_name ?actor_name.
+}
+ORDER BY ?birth_date
+LIMIT 20

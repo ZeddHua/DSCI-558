@@ -1,0 +1,14 @@
+SELECT DISTINCT ?name ?nameLabel (COUNT(?time) AS ?count)
+WHERE {
+    wd:Q166177 wdt:P1346 ?name .
+    ?name p:P166 [
+      ps:P166 wd:Q166177 ;
+      pq:P585 ?time
+      ] .
+    
+    FILTER(YEAR(?time) > 2000) .
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+GROUP BY ?name ?nameLabel
+ORDER BY DESC(?count)
+LIMIT 10

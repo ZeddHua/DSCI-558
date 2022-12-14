@@ -1,0 +1,2260 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix my_ns: <http://inf558.org/myfakenamespace#> .
+@prefix schema: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<10> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0820316989" ;
+    my_ns:ISBN13 "9780820316987" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$15.12" ;
+    my_ns:Salesrank "913,192" ;
+    my_ns:dimensions "5.50(w) x 8.50(h) x 0.96(d)" ;
+    my_ns:pageCount "392" ;
+    my_ns:pages "392" ;
+    schema:author " ",
+        "Andrew Young",
+        "Walter Francis White" ;
+    schema:contentRating 3.95e+00,
+        " ",
+        "21" ;
+    schema:datePublished "February 1st 1995" ;
+    schema:description "First published in 1948, A Man Called White is the autobiography of the famous civil rights activist Walter White during his first thirty years of service to the National Association for the Advancement of Colored People. White joined the NAACP in 1918 and served as its executive secretary from 1931 until his death in 1955. His recollections tell not only of his personal life, but amount to an insider's history of the association's first decades.Although an African American, White was fair-skinned, blond-haired, and blue-eyed. His ability to pass as a white man allowed him--at great personal risk--to gather important information regarding lynchings, disfranchisement, and discrimination. Much of A Man Called White recounts his infiltration of the country's white-racist power structure and the numerous legal battles fought by the NAACP that were aided by his daring efforts. Penetrating and detailed, this autobiography provides an important account of crucial events in the development of race relations before 1950--from the trial of the \"Scottsboro Boys\" to an investigation of the treatment of African American servicemen in World War II, from the struggle against the all-white primaries in the South to court decisions--at all levels--on equal education." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1009-1629320.A_Man_Called_White.html" ;
+    schema:publisher "University of Georgia Press" ;
+    schema:review "2" ;
+    foaf:name "A Man Called White: The Autobiography of Walter White" .
+
+<100> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0688109640" ;
+    my_ns:ISBN13 "9780688109646" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "288" ;
+    my_ns:pages "288" ;
+    schema:author " ",
+        "Derk Richardson",
+        "Holly Near" ;
+    schema:contentRating 3.78e+00,
+        " ",
+        "23" ;
+    schema:datePublished "October 28th 1991" ;
+    schema:description " " ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1090-992.Fire_in_the_Rain_Singer_in_the_Storm.html" ;
+    schema:publisher "Quill" ;
+    schema:review "2" ;
+    foaf:name "Fire in the Rain...Singer in the Storm: An Autobiography" .
+
+<1002> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0946590338" ;
+    my_ns:ISBN13 "9780946590339" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "8.08(w) x 10.51(h) x 1.13(d)" ;
+    my_ns:pageCount "134" ;
+    my_ns:pages "136" ;
+    schema:author " ",
+        "Barbara Hepworth" ;
+    schema:contentRating 4.86e+00,
+        " ",
+        "7" ;
+    schema:datePublished "September 1st 1986" ;
+    schema:description " " ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1892-2099008.Barbara_Hepworth_Pictorial_Autobiography.html" ;
+    schema:publisher "Tate Publishing(UK)" ;
+    schema:review "3" ;
+    foaf:name "Barbara Hepworth Pictorial Autobiography" .
+
+<104> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0299182843" ;
+    my_ns:ISBN13 "9780299182847" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "518,752" ;
+    my_ns:dimensions "5.90(w) x 8.90(h) x 1.20(d)" ;
+    my_ns:pageCount "480" ;
+    my_ns:pages "468" ;
+    schema:author " ",
+        "Theodore Bikel" ;
+    schema:contentRating 4e+00,
+        " ",
+        "5" ;
+    schema:datePublished "September 5th 2002" ;
+    schema:description "An award-winning actor on screen and stage ( The Defiant Ones , The African Queen , The Sound of Music , My Fair Lady , Fiddler on the Roof ), an activist for civil rights and progressive causes worldwide, and a singer whose voice has won him great applause, Theodore Bikel here tells his own compelling life story. Born in Austria, raised in Palestine, educated in England, and with a stellar career in the United States and around the world, Bikel offers a personal history parallel to momentous events of the twentieth century. In an eloquent, fiercely committed voice, he writes of the Third Reich, the birth of the State of Israel, the McCarthy witch hunts of the 1950s, and the tumultuous 1960s in America. In a new postscript to this paperback edition, he looks at recent events in the Middle East and takes both sides to task for their excesses." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1094-2215949.Theo.html" ;
+    schema:publisher "University of Wisconsin Press" ;
+    schema:review "2" ;
+    foaf:name "Theo: An Autobiography" .
+
+<1052> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " ",
+        "730,534" ;
+    my_ns:dimensions "0.81(w) x 6.14(h) x 9.21(d)",
+        "5.51(w) x 7.87(h) x (d)" ;
+    my_ns:pageCount "371" ;
+    my_ns:pages "192",
+        "396" ;
+    schema:author " ",
+        "Mark Van Doren" ;
+    schema:contentRating 3e+00,
+        " ",
+        "1" ;
+    schema:datePublished "1958" ;
+    schema:description " " ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1938-25384596-autobiography.html" ;
+    schema:publisher "Harcour" ;
+    schema:review "0" ;
+    foaf:name "Autobiography" .
+
+<1054> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0486436454" ;
+    my_ns:ISBN13 "9780486436456" ;
+    my_ns:Nookbookprice "$7.99" ;
+    my_ns:Paperbackprice "$8.95" ;
+    my_ns:Salesrank "566,238" ;
+    my_ns:dimensions "5.30(w) x 8.40(h) x 0.40(d)" ;
+    my_ns:pageCount "160" ;
+    my_ns:pages "160" ;
+    schema:author "Clarence Darrow",
+        "Mary Field Parton",
+        "Mary Harris Jones" ;
+    schema:contentRating 3.96e+00,
+        " ",
+        "107" ;
+    schema:datePublished "February 29th 2012" ;
+    schema:description "Among the most stirring pieces of labor history ever written, this autobiography of Mother Jones (née Mary Harris) chronicles the life of a woman who was considered a saint by many, and by others as \"the most dangerous woman in America.\" Widowed at the age of 30 when her husband and four young children died during an epidemic, Jones threw herself into the social and labor upheavals of the mid-19th century, speaking tirelessly and effectively for the rights of workers and unionists." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "194-375667.Autobiography_of_Mother_Jones.html" ;
+    schema:publisher "Dover Publications" ;
+    schema:review "19" ;
+    foaf:name "Autobiography of Mother Jones" .
+
+<1059> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0714509779" ;
+    my_ns:ISBN13 "9780714509778" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " ",
+        "730,534" ;
+    my_ns:dimensions "0.81(w) x 6.14(h) x 9.21(d)",
+        "5.51(w) x 7.87(h) x (d)" ;
+    my_ns:pageCount "192" ;
+    my_ns:pages "192",
+        "396" ;
+    schema:author " ",
+        "Margiad Evans" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "January 1st 1974" ;
+    schema:description " " ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1944-4603228-autobiography.html" ;
+    schema:publisher "Calder & Boyars" ;
+    schema:review "0" ;
+    foaf:name "Autobiography" .
+
+<108> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$40.95" ;
+    my_ns:ISBN "1406794473" ;
+    my_ns:ISBN13 "9781406794472" ;
+    my_ns:Nookbookprice "$5.49" ;
+    my_ns:Paperbackprice "$29.99" ;
+    my_ns:Salesrank "1,113,928" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "256" ;
+    my_ns:pages "260" ;
+    schema:author " ",
+        "Beverley Nichols" ;
+    schema:contentRating 3.45e+00,
+        " ",
+        "11" ;
+    schema:datePublished "January 1st 2006" ;
+    schema:description "'I have read every word of it. It has life and good nature. It is full of fun - written with an easy, vivid English' Somerset Maugham in The Sunday Times" ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1098-466425.Twenty_Five_An_Autobiography.html" ;
+    schema:publisher "Pomona Press" ;
+    schema:review "2" ;
+    foaf:name "Twenty-Five - An Autobiography" .
+
+<11> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0553272055" ;
+    my_ns:ISBN13 "9780553272055" ;
+    my_ns:Nookbookprice "$7.99" ;
+    my_ns:Paperbackprice "$7.99" ;
+    my_ns:Salesrank "141,070" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "311" ;
+    my_ns:pages "320" ;
+    schema:author " ",
+        "Kenneth Turan",
+        "Patty Duke" ;
+    schema:contentRating 3.86e+00,
+        "2205",
+        "4.2" ;
+    schema:datePublished "May 1st 1988" ;
+    schema:description "The Star--The public saw her as a gifted child star: the youngest actor to win an Oscar for her role as Helen Keller in The Miracle Worker and the youngest actor to have a prime-time television series bearing her own name. The Nightmare--What the public did not see was Anna Marie Duke, a young girl whose life changed forever at age seven when tyrannical mangers stripped her of nearly all that was familiar, beginning with her name. She was deprived of family and friends. Her every word was programmed, her every action monitored and criticized. She was fed liquor and prescription drugs, taught to lie to get work, and relentlessly drilled to win roles. The Legend--Out of this nightmare emerged Patty Duke, a show business legend still searching for the child, Anna. She won three Emmy Awards and divorced three husbands. A starring role in Valley of the Dolls nearly ruined her career. She was notorious for wild spending sprees, turbulent liaisons, and an uncontrollable temper. Until a long hidden illness was diagnosed, and her amazing recovery recovery began. The Triumph-- Call Me Anna is an American success story that grew out of a bizarre and desperate struggle for survival. A harrowing, ultimately triumphant story told by Patty Duke herself--wife, mother, political activist, President of the Screen Actors Guild, and at last, a happy, fulfilled woman whose miracle is her own life." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "101-213548.Call_Me_Anna.html" ;
+    schema:publisher "Bantam" ;
+    schema:review "61" ;
+    foaf:name "Call Me Anna: The Autobiography of Patty Duke" .
+
+<110> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$72.89" ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice "$0.99" ;
+    my_ns:Paperbackprice "$72.89" ;
+    my_ns:Salesrank "174,337" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "0" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Andrew Carnegie" ;
+    schema:contentRating 3.8e+00,
+        "3.0",
+        "368" ;
+    schema:datePublished "October 18th 2010" ;
+    schema:description "This Halcyon Classics ebook is the AUTOBIOGRAPHY OF ANDREW CARNEGIE, a leading Scottish-American industrialist, businessman, entrepreneur and philanthropist. Contains an active table of contents for easy navigation." ;
+    schema:encodingFormat "Nook" ;
+    schema:inLanguage "English" ;
+    schema:name "110-10158695-the-autobiography-of-andrew-carnegie.html" ;
+    schema:publisher "Halcyon Press Ltd." ;
+    schema:review "38" ;
+    foaf:name "The Autobiography of Andrew Carnegie" .
+
+<111> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "160608805X" ;
+    my_ns:ISBN13 "9781606088050" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "5.40(w) x 8.40(h) x 0.80(d)" ;
+    my_ns:pageCount "290" ;
+    my_ns:pages "290" ;
+    schema:author " ",
+        "Lesslie Newbigin" ;
+    schema:contentRating 3.71e+00,
+        " ",
+        "14" ;
+    schema:datePublished "June 1st 2009" ;
+    schema:description "An autobiography by Lesslie Newbigin, which describes the breadth and depth of his missionary service - as a student, wrestling with problems of faith and vocation, as a Church of Scotland missionary, helping to build the Church of South India and as bishop in Madurai and Madras, as midwife of the integration of the International Missionary Council and World Council of Churches and as pastor in one of Birmingham's toughest inner city areas." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1100-7534538-unfinished-agenda.html" ;
+    schema:publisher "Wipf & Stock Publishers" ;
+    schema:review "1" ;
+    foaf:name "Unfinished Agenda: An Updated Autobiography" .
+
+<1125> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0826211062" ;
+    my_ns:ISBN13 "9780826211064" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "6.00(w) x 9.00(h) x 0.80(d)" ;
+    my_ns:pageCount "168" ;
+    my_ns:pages "168" ;
+    schema:author " ",
+        "Miriam Formanek-Brunell" ;
+    schema:contentRating 4e+00,
+        " ",
+        "1" ;
+    schema:datePublished "May 15th 1997" ;
+    schema:description "To most of us, Rose O'Neill is best known as the creator of the Kewpie doll, perhaps the most widely known character in American culture until Mickey Mouse. Prior to O'Neill's success as a doll designer, however, she already had earned a reputation as one of the best-known female commercial illustrators. Her numerous illustrations appeared in America's leading periodicals, including Life, Harper's Bazaar, and Cosmopolitan. While highly successful in the commercial world, Rose O'Neill was also known among intellectuals and artists for her contributions to the fine arts and humanities. In the early 1920s, her more serious works of art were exhibited in galleries in Paris and New York City. In addition, she published a book of poetry and four novels. Yet, who was Rose Cecil O'Neill? Over the course of the twentieth century, Rose O'Neill has captured the attention of journalists, collectors, fans, and scholars who have disagreed over whether she was a sentimentalist or a cultural critic. Although biographers of Rose O'Neill have drawn heavily on portions of her previously unpublished autobiography, O'Neill's own voice--richly revealed in her well-written manuscript--has remained largely unheard until now. In these memoirs, O'Neill reveals herself as a woman who preferred art, activism, and adventure to motherhood and marriage. Featuring photographs from the O'Neill family collection, The Story of Rose O'Neill fully reveals the ways in which she pushed at the boundaries of her generation's definitions of gender in an effort to create new liberating forms." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "2004-561634.The_Story_of_Rose_O_Neill.html" ;
+    schema:publisher "University of Missouri" ;
+    schema:review "0" ;
+    foaf:name "The Story of Rose O'Neill: An Autobiography" .
+
+<116> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0717804682" ;
+    my_ns:ISBN13 "9780717804689" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "1,443,272" ;
+    my_ns:dimensions "5.30(w) x 7.90(h) x 0.70(d)" ;
+    my_ns:pageCount "360" ;
+    my_ns:pages "360" ;
+    schema:author " ",
+        "Dolores Ibárruri" ;
+    schema:contentRating 4.11e+00,
+        " ",
+        "9" ;
+    schema:datePublished "June 1st 1976" ;
+    schema:description "The gripping, autobiographical story of the Spanish Civil War by the legendary Communist leader." ;
+    schema:encodingFormat "Mass Market Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1105-1824226.They_Shall_Not_Pass.html" ;
+    schema:publisher "International Publishers" ;
+    schema:review "0" ;
+    foaf:name "They Shall Not Pass: The Autobiography of La Pasionaria" .
+
+<1175> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$16.85" ;
+    my_ns:ISBN "0764932438" ;
+    my_ns:ISBN13 "9780764932434" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$16.85" ;
+    my_ns:Salesrank "526,834" ;
+    my_ns:dimensions "8.12(w) x 9.42(h) x 1.64(d)" ;
+    my_ns:pageCount "561" ;
+    my_ns:pages "561" ;
+    schema:author " ",
+        "Frank Lloyd Wright" ;
+    schema:contentRating 3.8e+00,
+        "138",
+        "5.0" ;
+    schema:datePublished "January 1st 2005" ;
+    schema:description "Frank Lloyd Wright exerted perhaps the greatest influence on twentieth century design. In a volume that continues to resonate more than seventy years after its initial publication, Frank Lloyd Wright: An Autobiography contains the master architect's own account of his work, his philosophy, and his personal life, written with his signature wit and charm. Wright (1867-1959) went into seclusion in a Minnesota cabin to reflect and to record his life experiences. In 1932, the first edition of the Autobiography was published. It became a form of advertising, leading many readers to seek out the master architect--thirty apprentices came to live and learn at Taliesin, Wright's Wisconsin home/school/studio, under the master's tutelage. (By 1938, Taliesin West, in Arizona, was the winter location for Wright's school.) The volume is divided into five sections devoted to family, fellowship, work, freedom, and form. Wright recalls his childhood, his apprenticeship with Dankmar Adler and Louis Sullivan, the turmoil of his personal life, and the background to his greatest achievements, including Hollyhock House, the Prairie and the Usonian Houses, and the Imperial Hotel in Tokyo." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "205-405341.Frank_Lloyd_Wright.html" ;
+    schema:publisher "Pomegranate Communications In" ;
+    schema:review "20" ;
+    foaf:name "Frank Lloyd Wright: An Autobiography" .
+
+<1177> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0813922895" ;
+    my_ns:ISBN13 "9780813922898" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "6.40(w) x 9.16(h) x 0.97(d)" ;
+    my_ns:pageCount "240" ;
+    my_ns:pages "240" ;
+    schema:author " ",
+        "John D. Barbour" ;
+    schema:contentRating 3e+00,
+        " ",
+        "3" ;
+    schema:datePublished "October 29th 2004" ;
+    schema:description "Most people feel ambivalent about solitude, both loving and fearing it depending on how they experience being alone at certain points in their lives. In \"The Value of Solitude, \" John Barbour explores some of the ways in which experiences of solitude, both positive and negative, have been interpreted as religiously significant. He also shows how solitude can raise ethical questions as writers evaluate the virtues and dangers of aloneness and consider how social interaction and withdrawal can most meaningfully be combined in a life. Barbour's work differs from previous books about solitude in two ways: it links solitude with ethics and spirituality, and it approaches solitude by way of autobiography. Barbour ranges from the early Christian and medieval periods to the twentieth century in examining the varieties of solitary experience of writers such as Augustine, Petrarch, Montaigne, Gibbon, Rousseau, Thoreau, Thomas Merton, and Paul Auster. For many authors, the process of writing an autobiography is itself conceived of as a form of solitude, a detachment from others in order to discover or create a new sense of personal identity. Solitude helps these authors to reorient their lives according to their moral ideals and spiritual aspirations. \"The Value of Solitude\" both traces the persistence and vitality of the theme of solitude in autobiography and shows how the literary form and structure of autobiography are shaped by ethical and religious reflection on aloneness. This work should appeal to scholars in the fields of religious studies and theology, to literary critics and specialists in autobiography, and to readers interested in the experience of solitude and its moral and spiritual significance." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "2051-1140831.The_Value_of_Solitude.html" ;
+    schema:publisher "University of Virginia Press" ;
+    schema:review "1" ;
+    foaf:name "The Value of Solitude: The Ethics and Spirituality of Aloneness in Autobiography" .
+
+<119> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1178075672" ;
+    my_ns:ISBN13 "9781178075670" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$13.95" ;
+    my_ns:Salesrank "1,013,636" ;
+    my_ns:dimensions "6.00(w) x 9.00(h) x 0.74(d)" ;
+    my_ns:pageCount "352" ;
+    my_ns:pages "356" ;
+    schema:author " ",
+        "John Clark Murray",
+        "Salomon Maimon" ;
+    schema:contentRating 3.64e+00,
+        " ",
+        "11" ;
+    schema:datePublished "August 30th 2010" ;
+    schema:description "This is a reproduction of a book published before 1923. This book may have occasional imperfections such as missing or blurred pages, poor pictures, errant marks, etc. that were either part of the original artifact, or were introduced by the scanning process. We believe this work is culturally important, and despite the imperfections, have elected to bring it back into print as part of our continuing commitment to the preservation of printed works worldwide. We appreciate your understanding of the imperfections in the preservation process, and hope you enjoy this valuable book." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "German" ;
+    schema:name "1108-10360530-solomon-maimon.html" ;
+    schema:publisher "Nabu Press" ;
+    schema:review "1" ;
+    foaf:name "Solomon Maimon: An Autobiography" .
+
+<120> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0691062218" ;
+    my_ns:ISBN13 "9780691062211" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "360" ;
+    my_ns:pages "360" ;
+    schema:author " ",
+        "James Olney" ;
+    schema:contentRating 3.8e+00,
+        " ",
+        "5" ;
+    schema:datePublished "July 21st 1972" ;
+    schema:description " " ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1109-635642.Metaphors_of_Self.html" ;
+    schema:publisher "Princeton University Press" ;
+    schema:review "2" ;
+    foaf:name "Metaphors of Self: The Meaning of Autobiography" .
+
+<121> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "091639784X" ;
+    my_ns:ISBN13 "9780916397845" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "471,233" ;
+    my_ns:dimensions "6.20(w) x 9.20(h) x 0.30(d)" ;
+    my_ns:pageCount "44" ;
+    my_ns:pages "44" ;
+    schema:author " ",
+        "Graham Roumieu" ;
+    schema:contentRating 4.2e+00,
+        "1042",
+        "4.8" ;
+    schema:datePublished "March 1st 2003" ;
+    schema:description "In My Own Words: The Autobiography of Bigfoot hilariously recasts North America’s favorite crypto-zoological hominid as the modern day everyman. Learn the hairy one's brave struggles with eating disorders, casual cannibalism, pop culture, and philosophical quandaries. In this crazed mutant graphic novel, Graham Roumieu gives us a portrait of the artist as a young ape that will leave the reader howling with laughter." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "111-351290.In_Me_Own_Words.html" ;
+    schema:publisher "Manic D Pres" ;
+    schema:review "155" ;
+    foaf:name "In Me Own Words: The Autobiography of Bigfoot (Bigfoot #1)" .
+
+<123> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0385487614" ;
+    my_ns:ISBN13 "9780385487610" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$17.11" ;
+    my_ns:Salesrank "1,368,306" ;
+    my_ns:dimensions "5.50(w) x 8.25(h) x 0.75(d)" ;
+    my_ns:pageCount "304" ;
+    my_ns:pages "304" ;
+    schema:author " ",
+        "Rafer Johnson" ;
+    schema:contentRating 4.33e+00,
+        "5.0",
+        "9" ;
+    schema:datePublished "August 17th 1999" ;
+    schema:description "Rafer Johnson's story is the classic American dream: hard work leading to success, honor, and glory. Here, he openly writes about his humble beginnings in an obscure African American Texas ghetto, his growing up in the all-white, sun-drenched Californian town of Kingsburg, and his time at UCLA as the president of the student body and an acclaimed athlete. His talents brought him to dramatic athletic duels in Moscow, Melbourne, and Rome, and to the glamour of acting, broadcasting, and politics in Hollywood, Washington, D.C., and the rest of the nation. Structured around the ten events of the decathlon, Rafer's memoir vividly describes an exceptional life. It introduces remarkable people, both unknown and celebrated (the Kennedy family; Gloria Steinem; Bill Bright, founder of Campus Crusade; Tom Brokaw; and others), who befriended Rafer and affected his life. It tells of obstacles and tragedies--crippling injuries, an alcoholic father, the assassination of his close friend Robert F. Kennedy--and what it takes to overcome them. With tact, integrity, and acute observation, Rafer Johnson shares the intimate moments that have shaped his life and the lives of others. --This text refers to an out of print or unavailable edition of this title." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1111-695927.The_Best_that_I_Can_Be.html" ;
+    schema:publisher "WaterBrook Press" ;
+    schema:review "2" ;
+    foaf:name "The Best that I Can Be: An Autobiography" .
+
+<125> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0879725354" ;
+    my_ns:ISBN13 "9780879725358" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "6.00(w) x 9.00(h) x 0.39(d)" ;
+    my_ns:pageCount "168" ;
+    my_ns:pages "170" ;
+    schema:author " ",
+        "Cornell Woolrich",
+        "Mark T. Bassett" ;
+    schema:contentRating 4.2e+00,
+        " ",
+        "10" ;
+    schema:datePublished "June 15th 1991" ;
+    schema:description "Blues of a Lifetime is essential reading for people interested in suspense novelist Cornell Woolrich, author of Rear Window. Woolrich’s autobiography includes accounts of his working methods, his family and home, memories of childhood, college experience, and his philosophy of life." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1113-941107.Blues_of_a_Lifetime.html" ;
+    schema:publisher "Popular Press 1" ;
+    schema:review "2" ;
+    foaf:name "Blues of a Lifetime: The Autobiography of Cornell Woolrich" .
+
+<13> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1852272341" ;
+    my_ns:ISBN13 "9781852272340" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$23.03" ;
+    my_ns:Salesrank "1,424,939" ;
+    my_ns:dimensions "6.00(w) x 9.20(h) x 0.90(d)" ;
+    my_ns:pageCount "256" ;
+    my_ns:pages "304" ;
+    schema:author " ",
+        "Steve Fossett" ;
+    schema:contentRating 4.06e+00,
+        " ",
+        "17" ;
+    schema:datePublished "October 1st 2006" ;
+    schema:description "As a world record holder in ballooning, speed sailing, and aviation, Steve Fossett was the pinnacle of extreme sporting achievements. His adventurous spirit continually inspired his fellow competitors and sports aficionados, and attracted the curiosity of the world. In 2005, Fossett made the first solo, non-stop, non-refueled circumnavigation of the world at the helm of what has been described as \"a fuel tank with room for one\"—the Virgin Atlantic Global Flyer. But what made someone like Steve give up a secure, well-paid job in the financial sector for the romantic, yet increasingly dangerous, world of the adventurer? He achieved the first balloon crossings of Asia, Africa, Europe, and South America; the first ocean crossings of the South Atlantic, South Pacific, and Indian Oceans; and the first solo balloon flight round the world—a milestone in aviation history. And he didn't just take on the air. The most-successful speed sailor in the history of sailing, he also completed premier endurance sports events, including the Iditarod and Ironman Triathlon. In this dynamic autobiography, Steve Fossett shared his inspirational stories and candidly recounted the milestones, challenges, and victories that made up his much-heralded career and paved the path to his numerous world records." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1011-1866442.Chasing_the_Wind.html" ;
+    schema:publisher "Virgin Books" ;
+    schema:review "2" ;
+    foaf:name "Chasing the Wind: The Autobiography of Steve Fossett" .
+
+<1349> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0766129985" ;
+    my_ns:ISBN13 "9780766129986" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "560" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Andrew Jackson Davis" ;
+    schema:contentRating 4.75e+00,
+        " ",
+        "4" ;
+    schema:datePublished "January 15th 2003" ;
+    schema:description "The clairvoyant Andrew Jackson Davis tells his life story, including the discovery and use of his unusual psychic abilities. Selected contents: My first temptation; In which I ask many questions; In which are signs of second-sight; Signs, and the things signified; In which I hear strange music; A lesson of self-dependence; The dawning light; The spiritual spheres; The fatal gem; The conjugal marriage." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "2208-599353.The_Magic_Staff.html" ;
+    schema:publisher "Kessinger Publishing" ;
+    schema:review "0" ;
+    foaf:name "The Magic Staff: An Autobiography of Andrew Jackson Davis" .
+
+<1549> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0815410808" ;
+    my_ns:ISBN13 "9780815410805" ;
+    my_ns:Nookbookprice "$8.49" ;
+    my_ns:Paperbackprice "$15.20" ;
+    my_ns:Salesrank "118,044" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "368" ;
+    my_ns:pages "368" ;
+    schema:author " ",
+        "Bud Shrake",
+        "Willie Nelson" ;
+    schema:contentRating 3.95e+00,
+        "129",
+        "4.0" ;
+    schema:datePublished "August 29th 2000" ;
+    schema:description "Willie Nelson is more than just a singer whose albums have captures this country's imagination for more than thirty years: he is the nearest thing we have to the poet laureate of America's heart and the heartland. Told with frankness, warmth and earthy humor, here is Willie's story: his depression ere childhood; his stormy marriages; his will experiences with drugs, booze and women; his long rise to stardom; his musical and personal experiences with Waylon Jennings, Julio Iglesias, Kris Kristopherson, Johnny Cash, Ray Charles, Loretta Lynn, George Jones, Frank Sinatra and Linda Ronstadt." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "239-539418.Willie.html" ;
+    schema:publisher "Cooper Square Publishers" ;
+    schema:review "11" ;
+    foaf:name "Willie: An Autobiography" .
+
+<1581> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice "$4.99" ;
+    my_ns:Paperbackprice "$4.99" ;
+    my_ns:Salesrank "538,873" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "284" ;
+    my_ns:pages "464" ;
+    schema:author " ",
+        "Jon E. Lewis" ;
+    schema:contentRating 4e+00,
+        "1",
+        "5.0" ;
+    schema:datePublished "March 1st 2012" ;
+    schema:description "The history of Ancient Rome has been passed down to us through official accounts, personal letters, annotated words of great orators and the considered histories of powerful men. It is found on inscriptions, in private memoirs and official reports from every corner of the Empire. Over 150 pieces are collected in this autobiography of Ancient Rome, from the written accounts of Caesars and slaves, generals and poets on major battles, conspiracy and politics to the minutiae of everyday life and includes amongst them: How to keep a slave, by Cato the Elder; The Life of a Roman Gentleman by Pliny the Younger; Gang Warfare in Rome, by Cicero; a Chariot Fight, by Julius Caesar; Female Athletes and Gladiators, by Juvenal; the Eruption of Vesuivius, by Pliny the Younger; Nero Murders Britannicus, by Tacitus; On Going to bed with Cleopatra, by Mark Antony; Homosexuals in Rome, Juvenal; Alaric the Visogoth Sacks Rome,by Jordanes; The Great Fire of Rome, by Tacitus; Gladitorial Shows, by Seneca; Two Days in the Life of an Emperor's Son, Marcus Aurelius." ;
+    schema:encodingFormat "Kindle Edition" ;
+    schema:inLanguage "English" ;
+    schema:name "2419-24381310-rome.html" ;
+    schema:publisher "Robinson" ;
+    schema:review "0" ;
+    foaf:name "Rome: The Autobiography" .
+
+<1742> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1854371495" ;
+    my_ns:ISBN13 "9781854371492" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "8.08(w) x 10.51(h) x 1.13(d)" ;
+    my_ns:pageCount "134" ;
+    my_ns:pages "136" ;
+    schema:author " ",
+        "Barbara Hepworth" ;
+    schema:contentRating 5e+00,
+        " ",
+        "2" ;
+    schema:datePublished "March 1st 1998" ;
+    schema:description "Yorkshire by birth, resident of St Ives, Cornwall, for more than 30 years, scholarship student at the Royal College of Art at the age of 16, mother of triplets, Honorary Doctor of Letters of five universities, Cornish bard, Dame Commander of the Order of the British Empire, and world-famous sculptor: such was Barbara Hepworth, whose life always revolved around the demands of her creative work." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "2565-2456398.Barbara_Hepworth.html" ;
+    schema:publisher "Tate Gallery Publishing Ltd" ;
+    schema:review "0" ;
+    foaf:name "Barbara Hepworth: A Pictorial Autobiography" .
+
+<1982> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1460403142" ;
+    my_ns:ISBN13 "9781460403143" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " ",
+        "730,534" ;
+    my_ns:dimensions "0.81(w) x 6.14(h) x 9.21(d)",
+        "5.51(w) x 7.87(h) x (d)" ;
+    my_ns:pageCount "745" ;
+    my_ns:pages "192",
+        "396" ;
+    schema:author " ",
+        "Martineau Harriet Peterson Linda H" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "May 14th 2014" ;
+    schema:description " " ;
+    schema:encodingFormat "Unknown Binding" ;
+    schema:inLanguage " " ;
+    schema:name "2783-23077301-autobiography.html" ;
+    schema:publisher "Not Avail" ;
+    schema:review "0" ;
+    foaf:name "Autobiography" .
+
+<20> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1573926876" ;
+    my_ns:ISBN13 "9781573926874" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "6.30(w) x 9.30(h) x 1.30(d)" ;
+    my_ns:pageCount "409" ;
+    my_ns:pages "410" ;
+    schema:author " ",
+        "Karl Hess" ;
+    schema:contentRating 4.58e+00,
+        " ",
+        "12" ;
+    schema:datePublished "April 1st 1999" ;
+    schema:description "He left school at fifteen to work as a reporter and wound up, just a few years later, as associate editor at Newsweek. He helped William F. Buckley Jr. found the National Review, worked closely with Joseph McCarthy, and became chief speechwriter for Barry Goldwater. But true to a conscience that caused him to question the claims and authority of others, Hess eventually rejected conservatism and embraced the libertarian politics of the New Left. He dabbled with drugs, rode motorcycles, worked with the Black Panthers, got arrested while protesting the war in Viet Nam, and published an article in Playboy that defined libertarianism and ignited a national debate. As an anti-Communist he cooperated with the FBI, but as a libertarian he fought the IRS until he was nearly destitute. Whatever his political leanings, he always despised conceit, exploded intolerance, and embraced life to the fullest. He was a man who traveled in influential circles, often close to power, but, in his own words, \"mostly on the edge.\" Karl Hess participated in many of the defining events of 20th-century America, a self-taught boy who became a self-made journalist. Mostly on the Edge chronicles the life education of Hess, who became a defiant tester of the prevailing ideas of each decade. He lived by trial and error, and was always willing to acknowledge his mistakes. Like Franklin and Thoreau, Hess hoped to wake up America by questioning the moral majority, fighting the Kafkaesque intrusions of government, and encouraging his family, friends, and highly influential colleagues to think for themselves. Hess provides eyewitness accounts, unique personal observations, startling and valuable insights on leadership and dissent, and, in the end, leaves behind a clear path to realizing the dream of freedom." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1018-1752875.Mostly_on_the_Edge.html" ;
+    schema:publisher "Prometheus Books" ;
+    schema:review "2" ;
+    foaf:name "Mostly on the Edge: An Autobiography" .
+
+<2001> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "089789443X" ;
+    my_ns:ISBN13 "9780897894432" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "1,112,924" ;
+    my_ns:dimensions "6.14(w) x 9.21(h) x 0.36(d)" ;
+    my_ns:pageCount "168" ;
+    my_ns:pages "168" ;
+    schema:author " ",
+        "Robert  Atkinson" ;
+    schema:contentRating 3.83e+00,
+        " ",
+        "6" ;
+    schema:datePublished "September 5th 2000" ;
+    schema:description "The stories we tell about ourselves are guided by cultural patterns and enduring elements. The current interest in mythology has made evident how the classic hero's journey represents a theme not only common to all the world's myths, but also our own lives today. The Gift of Stories offers a clear concise basis for understanding the nature and potential of sharing our stories. It provides specific, practical, instructional details for telling our own stories and gives the necessary guidelines for assisting others in telling their life stories. Its basic framework enables individuals with little experience to begin writing about the really important aspects of their lives and understanding how and why the universal elements of the stories we tell contribute to our continuing growth." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "2800-2496325.The_Gift_of_Stories.html" ;
+    schema:publisher "Praeger" ;
+    schema:review "0" ;
+    foaf:name "The Gift of Stories: Practical and Spiritual Applications of Autobiography, Life Stories, and Personal Mythmaking" .
+
+<2012> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1870132807" ;
+    my_ns:ISBN13 "9781870132800" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "238" ;
+    my_ns:pages "238" ;
+    schema:author " ",
+        "William Carleton" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "January 1st 1996" ;
+    schema:description " " ;
+    schema:encodingFormat "Unknown Binding" ;
+    schema:inLanguage "English" ;
+    schema:name "2810-3482157-william-carleton.html" ;
+    schema:publisher "White Row Press" ;
+    schema:review "0" ;
+    foaf:name "William Carleton: The Autobiography" .
+
+<2119> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1870132807" ;
+    my_ns:ISBN13 "9781870132800" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "238" ;
+    my_ns:pages "238" ;
+    schema:author " ",
+        "William Carleton" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "January 1st 1996" ;
+    schema:description " " ;
+    schema:encodingFormat "Unknown Binding" ;
+    schema:inLanguage "English" ;
+    schema:name "2908-3482157-william-carleton.html" ;
+    schema:publisher "White Row Press" ;
+    schema:review "0" ;
+    foaf:name "William Carleton: The Autobiography" .
+
+<2121> a my_ns:book ;
+    my_ns:Audiobookprice "$25.22" ;
+    my_ns:Hardcoverprice "$33.91" ;
+    my_ns:ISBN "0520272781" ;
+    my_ns:ISBN13 "9780520272781" ;
+    my_ns:Nookbookprice "$29.25" ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "107,573" ;
+    my_ns:dimensions "7.62(w) x 10.24(h) x 2.42(d)" ;
+    my_ns:pageCount "776" ;
+    my_ns:pages "776" ;
+    schema:author "Benjamin Griffin",
+        "Harriet E. Smith",
+        "Mark Twain" ;
+    schema:contentRating 4.25e+00,
+        "226",
+        "4.8" ;
+    schema:datePublished "October 5th 2013" ;
+    schema:description "Mark Twain’s complete, uncensored Autobiography was an instant bestseller when the first volume was published in 2010, on the centennial of the author’s death, as he requested. Published to rave reviews, the Autobiography was hailed as the capstone of Twain’s career. It captures his authentic and unsuppressed voice, speaking clearly from the grave and brimming with humor, ideas, and opinions. The eagerly-awaited Volume 2 delves deeper into Mark Twain’s life, uncovering the many roles he played in his private and public worlds. Filled with his characteristic blend of humor and ire, the narrative ranges effortlessly across the contemporary scene. He shares his views on writing and speaking, his preoccupation with money, and his contempt for the politics and politicians of his day. Affectionate and scathing by turns, his intractable curiosity and candor are everywhere on view. Editors: Benjamin Griffin and Harriet E. Smith Associate Editors: Victor Fischer, Michael B. Frank, Sharon K. Goetz and Leslie Diane Myrick" ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "291-17347793-autobiography-of-mark-twain-volume-2.html" ;
+    schema:publisher "University of California Press" ;
+    schema:review "41" ;
+    foaf:name "Autobiography of Mark Twain, Volume 2: The Complete and Authoritative Edition" .
+
+<22> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0340951680" ;
+    my_ns:ISBN13 "9780340951682" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$11.96" ;
+    my_ns:Salesrank "277,290" ;
+    my_ns:dimensions "5.00(w) x 7.70(h) x 1.10(d)" ;
+    my_ns:pageCount "416" ;
+    my_ns:pages "352" ;
+    schema:author " ",
+        "Ranulph Fiennes" ;
+    schema:contentRating 4.08e+00,
+        " ",
+        "1007" ;
+    schema:datePublished "September 20th 2007" ;
+    schema:description "Ranulph Fiennes has traveled to the most dangerous and inaccessible places on earth. In the process he nearly died on several occasions, lost nearly half his fingers to frostbite, and raised millions for charity. He discovered the lost city of Ubar in Oman and attempted to walk solo and unsupported to the South Pole. He was the first man to reach both poles by surface travel and the first to cross the Antarctic Continent unsupported. In 1993, Her Majesty the Queen awarded him the Order of the British Empire for \"human endeavor and charitable services.\" An elite soldier, an athlete, a mountaineer, and a renowned explorer, Fiennes describes here in his own words his incredible journey through life." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "102-2060190.Mad_Bad_Dangerous_to_Know.html" ;
+    schema:publisher "Hodder & Stoughton" ;
+    schema:review "75" ;
+    foaf:name "Mad, Bad & Dangerous to Know: The Autobiography" .
+
+<2269> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0403007585" ;
+    my_ns:ISBN13 "9780403007585" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "292" ;
+    my_ns:pages "292" ;
+    schema:author " ",
+        "George Jean Nathan" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "NaN"^^xsd:double ;
+    schema:description " " ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "3056-4794539-the-autobiography-of-an-attitude.html" ;
+    schema:publisher "Scholarly Press" ;
+    schema:review "0" ;
+    foaf:name "The Autobiography Of An Attitude" .
+
+<2307> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0956803490" ;
+    my_ns:ISBN13 "9780956803498" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "6.00(w) x 9.00(h) x 0.33(d)" ;
+    my_ns:pageCount "142" ;
+    my_ns:pages "142" ;
+    schema:author " ",
+        "Geoff Hall" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "September 27th 2012" ;
+    schema:description "One of the biggest issues I'm asked about in my capacity as an arts mentor focuses on identity. Who am I as an artist? The next serious question is then How should my faith inform and give shape to my work? Autobiography will help artists to grapple with the issues from within redemption's story and guide them to find a place to live and work in contemporary culture." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage " " ;
+    schema:name "3090-17365023-the-artist-s-autobiography.html" ;
+    schema:publisher "Upptacka Press" ;
+    schema:review "0" ;
+    foaf:name "The Artist's Autobiography" .
+
+<2313> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1445551152" ;
+    my_ns:ISBN13 "9781445551159" ;
+    my_ns:Nookbookprice "$0.00" ;
+    my_ns:Paperbackprice "$32.95" ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "5.50(w) x 8.50(h) x 0.95(d)" ;
+    my_ns:pageCount "428" ;
+    my_ns:pages "428" ;
+    schema:author " ",
+        "John Relly Beard" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "March 30th 2010" ;
+    schema:description "The unclean spirit is man's spirit of moral impurity, which, weak for good, is powerful for evil. And that impure spirit breeds moral disorder, and moral disorder occasions impotence; and when man has lost his moral power, he is held and scourged by his own wickedness. For wickedness, substitute \"the wicked one\" by an act of impersonation, and you have before you the birth, growth and prevalence of the New Testament possession, so far as man's constitution is concerned. Owing to the strong tendencies which sprang up under these circumstances, the notion and the recognition of a second self arose more or less in all nations, and emphatically in tribes and individuals with whom imagination was vivid and active. And this natural and inevitable dualism has a bad being for one of its constituents. I am, then, the natural offspring of humanity. I am an image of the human mind. But then what at the bottom am 11 When all personification is removed, and figures of speech laid aside, I sink into man; I am a human being, who, as such, has two-fold moral tendencies, the one which lift him up, and the other which drag him down. Yet in this description imagery intrudes itself. To avoid imagery is very difficult. I will, however, say that one direction within you injures you, and the other benefits you: but even here the inevitable dualism recurs, and makes you two somewhats--a \"direction\" and a \"you,\" whereas in fact that direction is nothing but a form or state of the you, that is yourself. With those facts before them, how is it that men have ceased to use the language of possession, and to disbelieve in 190 THE POST-APOSTOLIC AGE KNOW LITTLE OF SATAN. BOOK IV. PERIOD OF COMPOSITION: ELEVATION. CHAPTER I. MY ECCLESIASTICAL HISTORY. SECTION I. THE..." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "3096-14399894-the-autobiography-of-satan.html" ;
+    schema:publisher "Reitell Press" ;
+    schema:review "0" ;
+    foaf:name "The Autobiography of Satan" .
+
+<2372> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$14.87" ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice "$5.19" ;
+    my_ns:Paperbackprice "$9.99" ;
+    my_ns:Salesrank "44,314" ;
+    my_ns:dimensions "6.30(w) x 9.30(h) x 1.20(d)" ;
+    my_ns:pageCount "288" ;
+    my_ns:pages "288" ;
+    schema:author " ",
+        "David A. Goodman" ;
+    schema:contentRating 4.14e+00,
+        " ",
+        "63" ;
+    schema:datePublished "September 8th 2015" ;
+    schema:description "The Autobiography of James T. Kirk chronicles the greatest Starfleet captain's life (2233–2371), in his own words. From his birth on the U.S.S. Kelvin, his youth spent on Tarsus IV, his time in the Starfleet Academy, his meteoric raise through the ranks of Starfleet, and his illustrious career at the helm of the Enterprise, this in-world memoir uncovers Captain Kirk in a way Star Trek fans have never seen. Kirk's singular voice rings throughout the text, giving insight into his convictions, his bravery, and his commitment to the life—in all forms—throughout this Galaxy and beyond. Excerpts from his personal correspondence, captain's logs, and more give Kirk's personal narrative further depth." ;
+    schema:encodingFormat "Kindle Edition" ;
+    schema:inLanguage "English" ;
+    schema:name "315-24484926-the-autobiography-of-james-t-kirk.html" ;
+    schema:publisher "Titan Books" ;
+    schema:review "24" ;
+    foaf:name "The Autobiography of James T. Kirk" .
+
+<2517> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0241962684" ;
+    my_ns:ISBN13 "9780241962688" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "335,212" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "320" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Brian O'Driscoll" ;
+    schema:contentRating 4.2e+00,
+        "5",
+        "5.0" ;
+    schema:datePublished "June 30th 2015" ;
+    schema:description "The bestselling autobiography of the greatest rugby player of our time: Brian O'Driscoll. Since 1999, when he made his international debut, there has been no greater player in world rugby than Brian O'Driscoll. In 2010 Rugby World magazine named him its world player of the decade - and since then the legend has only grown. Now, at the end of his amazing career - which culminated in fairy-tale fashion with Ireland's victory in the 2014 Six Nations championship - he tells his own story. Honest, gritty and thoughtful, Brian O'Driscoll's Autobiography is not just an essential sports book. It is an essential book about family, friends, hard work, courage and imagination. 'Honest, charming and revealing - a thoroughly good read' Rugby World 'A thoroughly enjoyable read ... After reading The Test I warmed even more to O'Driscoll as a player and a man. He stood for a new ethos in Irish sport that refused to accept mediocrity or glorious failure' Fergal Keane, Irish Times 'O'Driscoll's honesty ... takes the reader to a place they simply have not been before' Vincent Hogan, Irish Independent 'A must-read insight into the life and mind of Ireland's greatest rugby player' Irish Mail on Sunday 'There are fascinating insights into the lengths he was willing to go to perform at the highest level' Sunday Business Post" ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage " " ;
+    schema:name "3269-24875306-the-test.html" ;
+    schema:publisher "Penguin Ireland" ;
+    schema:review "0" ;
+    foaf:name "The Test: My Autobiography" .
+
+<2544> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0691013810" ;
+    my_ns:ISBN13 "9780691013817" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "336" ;
+    my_ns:pages "360" ;
+    schema:author " ",
+        "James Olney" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "October 1st 1981" ;
+    schema:description " " ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "3293-11235920-metaphors-of-self.html" ;
+    schema:publisher "Princeton University Press" ;
+    schema:review "0" ;
+    foaf:name "Metaphors of Self: The Meaning of Autobiography" .
+
+<2560> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice "$6.49" ;
+    my_ns:Paperbackprice "$15.27" ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "208" ;
+    my_ns:pages "256" ;
+    schema:author "Alice McDermott",
+        "Charlie Miller",
+        "Scott McDermott" ;
+    schema:contentRating 3.5e+00,
+        " ",
+        "2" ;
+    schema:datePublished "November 17th 2014" ;
+    schema:description "Charlie Miller was the best young Scottish footballer of his generation. He made his Rangers debut under Walter Smith aged just seventeen and became a vital part of the Ibrox club's legendary nine-in-a-row squad. Miller won four league titles and one League Cup with Rangers, but it was a career full of controversy and regrets as well as victories and silverware. Now, in The Proper Charlie , Charlie Miller reveals the real inside story of his incredible life and career, from his upbringing in Castlemilk, one of Glasgow's toughest housing estates, to his unusual family set-up and his feelings on never knowing who his father was. He explains how the gang culture he was involved in almost ended his Rangers career before it had started and speaks openly about the impact drugs, alcohol and gambling have had on his life. Charlie also takes us inside the Ibrox dressing-room, where he mixed with iconic figures like Ally McCoist, Brian Laudrup and Paul Gascoigne, and explains how he went from Rangers hero to rock bottom � with spells at Dundee United and overseas along the way � in an incredible and turbulent few years. Charlie Miller has seen it all and done most of it � and this is his must-read story." ;
+    schema:encodingFormat "Kindle Edition" ;
+    schema:inLanguage "English" ;
+    schema:name "3308-23786297-the-proper-charlie.html" ;
+    schema:publisher "Black & White Publishing" ;
+    schema:review "0" ;
+    foaf:name "The Proper Charlie: My Autobiography" .
+
+<2575> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0691013810" ;
+    my_ns:ISBN13 "9780691013817" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "336" ;
+    my_ns:pages "360" ;
+    schema:author " ",
+        "James Olney" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "October 1st 1981" ;
+    schema:description " " ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "3321-11235920-metaphors-of-self.html" ;
+    schema:publisher "Princeton University Press" ;
+    schema:review "0" ;
+    foaf:name "Metaphors of Self: The Meaning of Autobiography" .
+
+<26> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0802816037" ;
+    my_ns:ISBN13 "9780802834645" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "122" ;
+    my_ns:pages "122" ;
+    schema:author " ",
+        "William Barclay" ;
+    schema:contentRating 3.22e+00,
+        " ",
+        "9" ;
+    schema:datePublished "January 28th 1975" ;
+    schema:description "One of the many pleasures of A SPIRITUAL AUTOBIOGRAPHY is meeting and understanding the man who has led his passion for life lead him to the top, as an internationally respected theologian and teacher. With warmth and wit, William Barclay reflects on his upbringing, education, and career." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1023-3582365-william-barclay.html" ;
+    schema:publisher "Eerdmans" ;
+    schema:review "1" ;
+    foaf:name "William Barclay: A Spiritual Autobiography" .
+
+<27> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$36.95" ;
+    my_ns:ISBN "1409143201" ;
+    my_ns:ISBN13 "9781409143208" ;
+    my_ns:Nookbookprice "$8.99" ;
+    my_ns:Paperbackprice "$36.95" ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "288" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Mark Todd" ;
+    schema:contentRating 3.89e+00,
+        " ",
+        "19" ;
+    schema:datePublished "April 1st 2012" ;
+    schema:description "Mark Todd's eventing career is the stuff of legend and encompasses one of the greatest sporting comebacks of all time. When he 'retired' from competing in eventing in 2000, he had already been named 'Rider of the Century' for his natural empathy with a horse and his extraordinary success, which included back-to-back Olympic gold medals, five Burghley wins and three Badminton victories. The story of his progress from dairy farmer to world renowned sportsman is told with typically laid-back humor, but it reveals the fierce determination, discipline, and personal sacrifice that lies behind Todd's calm exterior." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1024-14325911-second-chance.html" ;
+    schema:publisher "Orion Publishing" ;
+    schema:review "2" ;
+    foaf:name "Second Chance: The Autobiography" .
+
+<2703> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0241962684" ;
+    my_ns:ISBN13 "9780241962688" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "335,212" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "320" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Brian O'Driscoll" ;
+    schema:contentRating 4.2e+00,
+        "5",
+        "5.0" ;
+    schema:datePublished "June 30th 2015" ;
+    schema:description "The bestselling autobiography of the greatest rugby player of our time: Brian O'Driscoll. Since 1999, when he made his international debut, there has been no greater player in world rugby than Brian O'Driscoll. In 2010 Rugby World magazine named him its world player of the decade - and since then the legend has only grown. Now, at the end of his amazing career - which culminated in fairy-tale fashion with Ireland's victory in the 2014 Six Nations championship - he tells his own story. Honest, gritty and thoughtful, Brian O'Driscoll's Autobiography is not just an essential sports book. It is an essential book about family, friends, hard work, courage and imagination. 'Honest, charming and revealing - a thoroughly good read' Rugby World 'A thoroughly enjoyable read ... After reading The Test I warmed even more to O'Driscoll as a player and a man. He stood for a new ethos in Irish sport that refused to accept mediocrity or glorious failure' Fergal Keane, Irish Times 'O'Driscoll's honesty ... takes the reader to a place they simply have not been before' Vincent Hogan, Irish Independent 'A must-read insight into the life and mind of Ireland's greatest rugby player' Irish Mail on Sunday 'There are fascinating insights into the lengths he was willing to go to perform at the highest level' Sunday Business Post" ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage " " ;
+    schema:name "3438-24875306-the-test.html" ;
+    schema:publisher "Penguin Ireland" ;
+    schema:review "0" ;
+    foaf:name "The Test: My Autobiography" .
+
+<2748> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1419662147" ;
+    my_ns:ISBN13 "9781419662140" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "5.25(w) x 8.00(h) x 0.34(d)" ;
+    my_ns:pageCount "158" ;
+    my_ns:pages "158" ;
+    schema:author " ",
+        "Robert Ransom Odom" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "March 22nd 2007" ;
+    schema:description "This book offers wisdom, insight, humor, and most importantly a modern, practical approach to ancient spirituality.Robert is believable, entertaining, and immensely approachable. Don't miss this book!" ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "3479-764058.Autobiography_of_a_Redneck_Hindu.html" ;
+    schema:publisher "Booksurge Publishing" ;
+    schema:review "0" ;
+    foaf:name "Autobiography of a Redneck Hindu" .
+
+<28> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0671890085" ;
+    my_ns:ISBN13 "9780671890087" ;
+    my_ns:Nookbookprice "$14.99" ;
+    my_ns:Paperbackprice "$22.66" ;
+    my_ns:Salesrank "448,338" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "352" ;
+    my_ns:pages "416" ;
+    schema:author " ",
+        "George Takei" ;
+    schema:contentRating 3.86e+00,
+        "4.0",
+        "607" ;
+    schema:datePublished "October 17th 1994" ;
+    schema:description "This is the autobiography of one of Star Trek's most popular stars, George Takei. It tells of his triumph over adversity and of his huge success, despite an inauspicious start in a wartime US Asian relocation camp. In his lifetime, he has become an actor, a successful businessman, a writer, and a man deeply involved in politics and the democratic process. His story also includes his early days as an actor when he had brushes with greats like Alec Guinness, Burt Lancaster and Bruce Lee, as well as his first meeting with a writer/producer named Gene Roddenberry. The story continues with his days as Mr Sulu on Star Trek, with tales of what really went on behind the scenes, and a look at the production of the original TV series and the feature films." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1025-1356314.To_the_Stars.html" ;
+    schema:publisher "Simon & Schuster Ltd" ;
+    schema:review "76" ;
+    foaf:name "To the Stars: The Autobiography of George Takei, Star Trek's Mr. Sulu" .
+
+<2926> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$59.95" ;
+    my_ns:ISBN "0804720487" ;
+    my_ns:ISBN13 "9780804720489" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$59.95" ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "16.00(w) x 24.00(h) x 1.30(d)" ;
+    my_ns:pageCount "288" ;
+    my_ns:pages "288" ;
+    schema:author " ",
+        "Robert Folkenflik" ;
+    schema:contentRating 3e+00,
+        " ",
+        "1" ;
+    schema:datePublished "August 1st 1993" ;
+    schema:description "Focusing primarily on the period from the eighteenth-century to the present, this interdisciplinary volume takes a fresh look at the institutions and practices of autobiography and self-portraiture in Europe, the United States and other cultures." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "3640-2744147-the-culture-of-autobiography.html" ;
+    schema:publisher "Stanford University Press" ;
+    schema:review "0" ;
+    foaf:name "The Culture of Autobiography: Constructions of Self-Representation" .
+
+<33> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0312280718" ;
+    my_ns:ISBN13 "9780312280710" ;
+    my_ns:Nookbookprice "$9.99" ;
+    my_ns:Paperbackprice "$11.80" ;
+    my_ns:Salesrank "700,664" ;
+    my_ns:dimensions "6.12(w) x 9.14(h) x 0.93(d)" ;
+    my_ns:pageCount "336" ;
+    my_ns:pages "336" ;
+    schema:author " ",
+        "Osho" ;
+    schema:contentRating 4.31e+00,
+        "4.1",
+        "562" ;
+    schema:datePublished "June 9th 2001" ;
+    schema:description "An indispensable work for understanding the life and teachings of one of the most unusual mystics and philosophers of our time. Ten years have past since, in the words of his attending physician, Osho prepared for his departure from the body that had served him for fifty-nine years \"as calmly as though he were packing for a weekend in the country.\" This volume is recognition that the time has come to provide a historical and biographical context for understanding Osho and his work. Who was this man, known as the Sex Guru, the \"self-appointed bhagwan \" (Rajneesh), the Rolls-Royce Guru, the Rich Man's Guru, and simply the Master? Drawn from nearly five thousand hours of Osho's recorded talks, this is the story of his youth and education, his life as a professor of philosophy and years of travel teaching the importance of meditation, and the true legacy he sought to leave behind: a religionless religion centered on individual awareness and responsibility and the teaching of \"Zorba the Buddha,\" a celebration of the whole human being." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "NaN"^^xsd:double ;
+    schema:name "103-97012.Autobiography_of_a_Spiritually_Incorrect_Mystic.html" ;
+    schema:publisher "St. Martin's Griffin" ;
+    schema:review "29" ;
+    foaf:name "Autobiography of a Spiritually Incorrect Mystic" .
+
+<3334> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "335,212" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "408" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Brian O'Driscoll" ;
+    schema:contentRating 3.36e+00,
+        "119",
+        "5.0" ;
+    schema:datePublished "October 23rd 2014" ;
+    schema:description "This is the long-awaited autobiography of the greatest rugby player of our time: Brian O'Driscoll. Since 1999, when he made his international debut, there has been no greater player in world rugby than Brian O'Driscoll. In 2010 Rugby World magazine named him its world player of the decade - and since then the legend has only grown. Now, at the end of his amazing career - which culminated in fairy-tale fashion with Ireland's victory in the 2014 Six Nations championship - he tells his own story. Honest, gritty and thoughtful, Brian O'Driscoll's Autobiography is not just an essential sports book. It is an essential book about family, friends, hard work, courage and imagination. \"An amazing career. There will only ever be one BOD\". (Dan Carter). \"A thoroughly enjoyable read ...After reading The Test I warmed even more to O'Driscoll as a player and a man. He stood for a new ethos in Irish sport that refused to accept mediocrity or glorious failure\". (Fergal Keane, Irish Times). \"O'Driscoll's honesty ...takes the reader to a place they simply have not been before\". (Vincent Hogan, Irish Independent)." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "412-23499021-the-test.html" ;
+    schema:publisher "Penguin Ireland" ;
+    schema:review "7" ;
+    foaf:name "The Test: My Autobiography" .
+
+<3419> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$32.35" ;
+    my_ns:ISBN "0520279948" ;
+    my_ns:ISBN13 "9780520279940" ;
+    my_ns:Nookbookprice "$31.49" ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "52,072" ;
+    my_ns:dimensions "7.10(w) x 10.10(h) x 2.40(d)" ;
+    my_ns:pageCount "792" ;
+    my_ns:pages "792" ;
+    schema:author "Benjamin Griffin",
+        "Harriet E. Smith",
+        "Mark Twain" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished " " ;
+    schema:description "The surprising final chapter of a great American life. When the first volume of Mark Twain’s uncensored Autobiography was published in 2010, it was hailed as an essential addition to the shelf of his works and a crucial document for our understanding of the great humorist’s life and times. This third and final volume crowns and completes his life’s work. Like its companion volumes, it chronicles Twain's inner and outer life through a series of daily dictations that go wherever his fancy leads. Created from March 1907 to December 1909, these dictations present Mark Twain at the end of his life: receiving an honorary degree from Oxford University; railing against Theodore Roosevelt; founding numerous clubs; incredulous at an exhibition of the Holy Grail; credulous about the authorship of Shakespeare’s plays; relaxing in Bermuda; observing (and investing in) new technologies. The Autobiography ’s “Closing Words” movingly commemorate his daughter Jean, who died on Christmas Eve 1909. Also included in this volume is the previously unpublished “Ashcroft-Lyon Manuscript,” Mark Twain’s caustic indictment of his “putrescent pair” of secretaries and the havoc that erupted in his house during their residency. Fitfully published in fragments at intervals throughout the twentieth century, Autobiography of Mark Twain has now been critically reconstructed and made available as it was intended to be read. Fully annotated by the editors of the Mark Twain Project, the complete Autobiography emerges as a landmark publication in American literature. Editors: Benjamin Griffin and Harriet Elinor Smith Associate Editors: Victor Fischer, Michael B. Frank, Amanda Gagel, Sharon K. Goetz, Leslie Diane Myrick, Christopher M. Ohge" ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage " " ;
+    schema:name "497-25494458-autobiography-of-mark-twain-volume-3.html" ;
+    schema:publisher " " ;
+    schema:review "0" ;
+    foaf:name "Autobiography of Mark Twain, Volume 3: The Complete and Authoritative Edition" .
+
+<3421> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1578062640" ;
+    my_ns:ISBN13 "9781578062645" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "182" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Margo V. Perkins" ;
+    schema:contentRating 4.08e+00,
+        "12",
+        "4.0" ;
+    schema:datePublished "December 18th 2009" ;
+    schema:description "A study of three Black Power narratives as instruments for radical social change Angela Davis, Assata Shakur (a.k.a. JoAnne Chesimard), and Elaine Brown are the only women activists of the Black Power movement who have published book-length autobiographies. In bearing witness to that era, these militant newsmakers wrote in part to educate and to mobilize their anticipated readers. In this way, Davis's Angela Davis: An Autobiography (1974), Shakur's Assata (1987), and Brown's A Taste of Power: A Black Woman's Story (1992) can all be read as extensions of the writers' political activism during the 1960s. Margo V. Perkins's critical analysis of their books is less a history of the movement (or of women's involvement in it) than an exploration of the politics of storytelling for activists who choose to write their lives. Perkins examines how activists use autobiography to connect their lives to those of other activists across historical periods, to emphasize the link between the personal and the political, and to construct an alternative history that challenges dominant or conventional ways of knowing. The histories constructed by these three women call attention to the experiences of women in revolutionary struggle, particularly to the ways their experiences have differed from men's. The women's stories are told from different perspectives and provide different insights into a movement that has been much studied from the masculine perspective. At times they fill in, complement, challenge, or converse with the stories told by their male counterparts, and in doing so, hint at how the present and future can be made less catastrophic because of women's involvement. The multiple complexities of the Black Power movement become evident in reading these women's narratives against each other as well as against the sometimes strikingly different accounts of their male counterparts. As Davis, Shakur, and Brown recount events in their lives, they dispute mainstream assumptions about race, class, and gender and reveal how the Black Power struggle profoundly shaped their respective identities. Recipient of Mississippi University for Women's Eudora Welty Prize, 1999 Margo V. Perkins is an assistant professor of English and American studies at Trinity College in Hartford, Connecticut." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "499-3146249-autobiography-as-activism.html" ;
+    schema:publisher "University Press of Mississippi" ;
+    schema:review "3" ;
+    foaf:name "Autobiography as Activism" .
+
+<3429> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0826214452" ;
+    my_ns:ISBN13 "9780826214454" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "160" ;
+    my_ns:pages "153" ;
+    schema:author " ",
+        "Harry S. Truman",
+        "Robert H. Ferrell" ;
+    schema:contentRating 3.86e+00,
+        " ",
+        "37" ;
+    schema:datePublished "September 3rd 2002" ;
+    schema:description "The Autobiography of Harry S. Truman is a compilation of autobiographical writings composed by Truman between 1934 and 1972. Taken directly from his own manuscript material, the volume presents the thoughts and feelings of the man himself. The book touches on details in Truman’s life from his days as a boy until graduation from Independence High School in 1901 to the vice presidency of the United States and beyond. There is also a memorandum written by Truman about the Pendergast machine in Kansas City telling how it was possible to work with the machine and not be soiled by it. The Autobiography concludes with some of the retired president’s thoughts about politics and the purposes of public life." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "507-355924.The_Autobiography_of_Harry_S_Truman.html" ;
+    schema:publisher "University of Missouri" ;
+    schema:review "3" ;
+    foaf:name "The Autobiography of Harry S. Truman" .
+
+<3464> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1843911396" ;
+    my_ns:ISBN13 "9781843911395" ;
+    my_ns:Nookbookprice " ",
+        "$0.99" ;
+    my_ns:Paperbackprice " ",
+        "$9.99" ;
+    my_ns:Salesrank " ",
+        "1,169,524" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "160" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "James Fenimore Cooper",
+        "Ruth Scurr" ;
+    schema:contentRating 3.22e+00,
+        " ",
+        "2.3",
+        "32" ;
+    schema:datePublished "March 1st 2007" ;
+    schema:description "In this rare and unusual text, a pocket handkerchief tells its story—from flax field to its creation in Paris, and on to respectable Manhattan society. After passing through many hands, it is finally reunited with its original maker. Significant for its surprising narrative voice and its exploration of French and American cultures, this delightfully quirky satire was Cooper's first proper attempt at magazine writing. James Fenimore Cooper was one of the most popular writers of early 19th-century America. Best known for his historical romances and tales of life on the frontier, Last of the Mohicans is considered to be his masterpiece." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "542-1498008.Autobiography_of_a_Pocket_Handkerchief.html" ;
+    schema:publisher "Hesperus Press" ;
+    schema:review "7" ;
+    foaf:name "Autobiography of a Pocket Handkerchief" .
+
+<3505> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$25.73" ;
+    my_ns:ISBN "1406506060" ;
+    my_ns:ISBN13 "9781406506068" ;
+    my_ns:Nookbookprice "$0.99" ;
+    my_ns:Paperbackprice "$14.95" ;
+    my_ns:Salesrank "119,548" ;
+    my_ns:dimensions "7.00(w) x 10.00(h) x 0.62(d)" ;
+    my_ns:pageCount "500" ;
+    my_ns:pages "298" ;
+    schema:author " ",
+        "Theodore Roosevelt" ;
+    schema:contentRating 3.89e+00,
+        "4.1",
+        "743" ;
+    schema:datePublished "April 28th 2006" ;
+    schema:description "By the 26th President of the United States, popularly known as T.R. or Teddy. He was also a widely respected historian, naturalist and explorer of the Amazon Basin; his 35 books include works on outdoor life, natural history, U.S. Western and political history, an autobiography and a host of other topics." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "58-211376.Theodore_Roosevelt.html" ;
+    schema:publisher "Dodo Press" ;
+    schema:review "66" ;
+    foaf:name "Theodore Roosevelt: An Autobiography" .
+
+<36> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0345803701" ;
+    my_ns:ISBN13 "9780345803702" ;
+    my_ns:Nookbookprice "$11.99" ;
+    my_ns:Paperbackprice "$12.35" ;
+    my_ns:Salesrank "562,186" ;
+    my_ns:dimensions "5.14(w) x 8.01(h) x 0.59(d)" ;
+    my_ns:pageCount "288" ;
+    my_ns:pages "288" ;
+    schema:author " ",
+        "Luis Buñuel" ;
+    schema:contentRating 4.34e+00,
+        " ",
+        "1302" ;
+    schema:datePublished "March 26th 2013" ;
+    schema:description "A provocative memoir from Luis Buñuel, the Academy Award winning creator of some of modern cinema's most important films, from Un Chien Andalou to The Discreet Charm of the Bourgeoisie . Luis Buñuel’s films have the power to shock, inspire, and reinvent our world. Now, in a memoir that carries all the surrealism and subversion of his cinema, Buñuel turns his artistic gaze inward. In swift and generous prose, Buñuel traces the surprising contours of his life, from the Good Friday drumbeats of his childhood to the dreams that inspired his most famous films to his turbulent friendships with Federico García Lorca and Salvador Dalí. His personal narratives also encompass the pressing political issues of his time, many of which still haunt us today—the specter of fascism, the culture wars, the nuclear bomb. Filled with film trivia, framed by Buñuel’s intellect and wit, this is essential reading for fans of cinema and for anyone who has ever wanted to see the world through a surrealist’s eyes." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1032-15797360-my-last-sigh.html" ;
+    schema:publisher "Vintage" ;
+    schema:review "99" ;
+    foaf:name "My Last Sigh: The Autobiography of Luis Buñuel" .
+
+<3658> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1606643258" ;
+    my_ns:ISBN13 "9781606643259" ;
+    my_ns:Nookbookprice " ",
+        "$0.99" ;
+    my_ns:Paperbackprice " ",
+        "$6.99" ;
+    my_ns:Salesrank " ",
+        "1,001,025" ;
+    my_ns:dimensions " ",
+        "6.00(w) x 9.00(h) x 0.14(d)" ;
+    my_ns:pageCount "104" ;
+    my_ns:pages "68",
+        "78" ;
+    schema:author " ",
+        "John Kendrick Bangs" ;
+    schema:contentRating 3.35e+00,
+        " ",
+        "17" ;
+    schema:datePublished "February 1st 2009" ;
+    schema:description "I, METHUSELAH George W. Methuselah, that is. I, the oldest man of all time, am setting down my story here. Not in hieroglyphics, mind you, for I am no draftsman and these chisels and rocks are an awkward medium. (And Dear Reader, I assure you my tale is not as heavy at its manuscript!) No, I have chosen English, because French, Spanish, and German haven't come into being yet. The reason why I didn't choose Esperanto is contained herein. Here, for your edification, are my memories of my great, great, great grandfather and grandmother Adam and his Madam. (Eve, that is!) The true story of Cain and Abel? Look no further! And you'll want to hear the story of how my father, Enoch, named me. As Granpa Adam might have said, it's a rib-tickler! You'll be treated to my poetry, the genuine tale of my son Noah and that damp business with the Ark and . . . But enough! You're not getting any younger! Read! Enjoy. already!" ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "719-6660316-the-autobiography-of-methuselah.html" ;
+    schema:publisher "Aegypan" ;
+    schema:review "5" ;
+    foaf:name "The Autobiography of Methuselah" .
+
+<3723> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1844882918" ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "335,212" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "320" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Brian O'Driscoll" ;
+    schema:contentRating 3.15e+00,
+        "33",
+        "5.0" ;
+    schema:datePublished "January 27th 2015" ;
+    schema:description "The long-awaited autobiography of the greatest rugby player of our time: Brian O'Driscoll. Since 1999, when he made his international debut, there has been no greater player in world rugby than Brian O'Driscoll. In 2010 Rugby World magazine named him its world player of the decade - and since then the legend has only grown. Now, at the end of his amazing career - which culminated in fairy-tale fashion with Ireland's victory in the 2014 Six Nations championship - he tells his own story. Honest, gritty and thoughtful, Brian O'Driscoll's Autobiography is not just an essential sports book. It is an essential book about family, friends, hard work, courage and imagination. 'An amazing career. There will only ever be one BOD' Dan Carter 'A thoroughly enjoyable read ... After reading The Test I warmed even more to O'Driscoll as a player and a man. He stood for a new ethos in Irish sport that refused to accept mediocrity or glorious failure' Fergal Keane, Irish Times 'O'Driscoll's honesty ... takes the reader to a place they simply have not been before' Vincent Hogan, Irish Independent" ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage " " ;
+    schema:name "778-23471760-the-test.html" ;
+    schema:publisher "Penguin Ireland" ;
+    schema:review "3" ;
+    foaf:name "The Test: My Autobiography" .
+
+<3758> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0393310698" ;
+    my_ns:ISBN13 "9780393310696" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$11.07" ;
+    my_ns:Salesrank "565,200" ;
+    my_ns:dimensions "5.60(w) x 8.20(h) x 0.70(d)" ;
+    my_ns:pageCount "224" ;
+    my_ns:pages "253" ;
+    schema:author " ",
+        "Charles Darwin",
+        "Nora Barlow" ;
+    schema:contentRating 3.82e+00,
+        " ",
+        "1035" ;
+    schema:datePublished "September 17th 1993" ;
+    schema:description "Charles Darwin's Autobiography was first published in 1887, five years after his death. It was a bowdlerized edition: Darwin's family, attempting to protect his posthumous reputation, had deleted all the passages they considered too personal or controversial. The present complete edition did not appear until 1959, one hundred years after the publication of The Origin of Species . Upon its appearance, Loren Eiseley wrote: \"No man can pretend to know Darwin who does not know his autobiography. Here, for the first time since his death, it is presented complete and unexpurgated, as it exists in the family archives. It will prove invaluable to biographers and cast new light on the personality of one of the world's greatest scientists. Nora Barlow, Darwin's granddaughter, has proved herself a superb editor. Her own annotations make fascinating reading.\" The daring and restless mind, the integrity and simplicity of Darwin's character are revealed in this direct and personal account of his life—his family, his education, his explorations of the natural world, his religion and philosophy. The editor has provided page and line references to the more important restored passages, and previously unpublished notes and letters on family matters and on the controversy between Samuel Butler appear in an appendix." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "81-185404.The_Autobiography_of_Charles_Darwin_1809_82.html" ;
+    schema:publisher "W.W. Norton & Company" ;
+    schema:review "95" ;
+    foaf:name "The Autobiography of Charles Darwin, 1809–82" .
+
+<38> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "414,178" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "49" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Luna Challis",
+        "Steve Challis" ;
+    schema:contentRating 3.94e+00,
+        "18",
+        "4.5" ;
+    schema:datePublished "August 28th 2011" ;
+    schema:description "I am a Cat who has had a lot of experiences in my 4 years. In my Autobiography with 21 pictures and 5000 words you can meet my friends like Michael, the local mob and the kind farmer, hate my enemies like the Big Fat Ugly Dog, the Bad Man and the Satanic Cat. and laugh at the terrible ideas of the enigmatic Bad Boy. You can share my grief and my joy. Michael says that I have delusions of Grandeur. He is wrong, I don't have delusions; I am Grand. Suitable for people aged from 8 to 118." ;
+    schema:encodingFormat "ebook" ;
+    schema:inLanguage "English" ;
+    schema:name "1034-18947520-luna-the-autobiography-of-a-super-cat.html" ;
+    schema:publisher "Smashwords Edition" ;
+    schema:review "3" ;
+    foaf:name "Luna the Autobiography of a Super Cat" .
+
+<382> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice "$0.99" ;
+    my_ns:Paperbackprice "$14.99" ;
+    my_ns:Salesrank "477,670" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "0" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Theodore Roosevelt" ;
+    schema:contentRating 4.4e+00,
+        "3.7",
+        "5" ;
+    schema:datePublished "NaN"^^xsd:double ;
+    schema:description "Regarded as one of the greatest Presidents of The United States, Theodore Roosevelt (1858-1919) led a full and vibrant life that reflected his storied personality and presence. 'The Autobiography of Theodore Roosevelt' is an invaluable literary work and a true gift to readers, as it is a glimpse into the psyche of such an enigmatic historical figure. Roosevelt led a life rich in accomplishments not limited to his being the youngest president in US history. He was a courageous soldier, posthumously receiving the Medal of Honor for his creation and leadership of the Rough Riders in Cuba during the Spanish-American War. He was also the first American to win a Nobel Peace prize, which he received for his negotiation of the end of the Russo-Japanese War. In addition, Roosevelt was an adventurer with a taste for hunting and exploring, especially in South America, where a river is named after him. His iconic slogan, \"Speak softly and carry a big stick,\" is still quoted and embodied by politicians to this very day, exemplifying his indelible impact on the history of the United States. http://www.amazon.com/gp/search/ref=s..." ;
+    schema:encodingFormat "ebook" ;
+    schema:inLanguage "English" ;
+    schema:name "1347-25127445-the-autobiography-of-theodore-roosevelt.html" ;
+    schema:publisher "General Press" ;
+    schema:review "0" ;
+    foaf:name "The Autobiography of Theodore Roosevelt" .
+
+<3863> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0099476487" ;
+    my_ns:ISBN13 "9780099476481" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "4.33(w) x 6.97(h) x 0.83(d)" ;
+    my_ns:pageCount "352" ;
+    my_ns:pages "224" ;
+    schema:author " ",
+        "Will Greenwood" ;
+    schema:contentRating 3.75e+00,
+        " ",
+        "20" ;
+    schema:datePublished "June 2nd 2005" ;
+    schema:description "Known as Shaggy to his mates, Greenwood is one of rugby's and international sport's most engaging, intelligent, outspoken and witty characters. A Lancastrian to the tips of this size 12 boots, the giant centre has been an automatic choice in the England XV since his debut against Australia in 1997. A few months earlier he looked set to become only the third uncapped Englishman to play for the British Lions when he came within a whisker of losing his life after he was speared to the ground in a heavy tackle, lost consciousness and swallowed his tongue. After taking several months to recover he quickly made an impact at international level following a widespread clamour in the press for his call-up to the England side. An elegant riposte to the old jibe that England rugby players lack guile and imagination, the Harlequins' and former Leicester centre has brought a shimmering, magical quality to his team's back play, opening up defences with clever angled running, superb distribution and a gravity-defying ability to stay up in the tackle. Greenwood also featured in England's doomed Rugby World Cup campaign in 1999 before playing a central role in the team's dramatic triumph in Australia four years later. His life off the pitch has been no less eventful, he and his wife Caro having experienced extreme despair and joy in recent years with the loss of one son, Freddie, and the birth of another, Archie." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "905-4267277-will.html" ;
+    schema:publisher "Arrow" ;
+    schema:review "3" ;
+    foaf:name "Will: The Autobiography of Will Greenwood" .
+
+<3912> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0099426870" ;
+    my_ns:ISBN13 "9780099426875" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "5.12(w) x 7.81(h) x 1.06(d)" ;
+    my_ns:pageCount "400" ;
+    my_ns:pages "272" ;
+    schema:author " ",
+        "Frank Skinner" ;
+    schema:contentRating 3.87e+00,
+        " ",
+        "1007" ;
+    schema:datePublished "May 2nd 2002" ;
+    schema:description "Born Chris Collins in 1957 he grew up in the West Midlands and is currently enjoying success with his own TV chat show. Here, for the first time, Frank candidly tells us of the highs and lows of his fascinating life and career." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage " " ;
+    schema:name "95-670801.Frank_Skinner_Autobiography.html" ;
+    schema:publisher "Arrow" ;
+    schema:review "41" ;
+    foaf:name "Frank Skinner Autobiography" .
+
+<441> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0852445970" ;
+    my_ns:ISBN13 "9780852445976" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " ",
+        "730,534" ;
+    my_ns:dimensions "0.81(w) x 6.14(h) x 9.21(d)",
+        "5.51(w) x 7.87(h) x (d)" ;
+    my_ns:pageCount "396" ;
+    my_ns:pages "192",
+        "396" ;
+    schema:author " ",
+        "Marcel Van" ;
+    schema:contentRating 5e+00,
+        " ",
+        "1" ;
+    schema:datePublished "March 1st 2006" ;
+    schema:description "The inspirational life story of the Vietnamese Redemptorist Marcel Van, who was to die in a North Vietnamese prison-camp in 1959. The first steps towards his Beatification were begun in 1984. Born in 1928 into a modest family, against a background of endless personal trials, Marcel Van wished to become a priest. Therese of Lisieux chose him as her disciple par excellence of 'the little way'; \"Van, my little brother, just as you consider me as a saint according to your own heart, in the same way also you are truly for me a soul entirely according to my own heart...Your vocation will always be that of the hidden Apostle of Love.\" If, because of poor health, Therese was unable to go to Hanoi, her heart remained in Vietnam - \"the eldest daughter of the Church in the Far East\" (Pius XI, 1933). Van was to give up his wish to become a priest and enter the Hanoi monastery as a humble Redemptorist brother; \"Jesus confided an mission to me, that of turning suffering into joy ... My joy is to love and to be loved.\" Combining an extreme sensitivity with an inane but saint-like audacity, his life was spent in silence against a backcloth of political turmoin until his death in the prison-camp. Foreword by Mgr F.-X. NGUYEN VAN THUAN" ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1400-7142721-autobiography.html" ;
+    schema:publisher "Gracewing" ;
+    schema:review "0" ;
+    foaf:name "Autobiography" .
+
+<47> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1843830957" ;
+    my_ns:ISBN13 "9781843830955" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$26.60" ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "0.44(w) x 8.50(h) x 5.50(d)" ;
+    my_ns:pageCount "189" ;
+    my_ns:pages "189" ;
+    schema:author " ",
+        "Ulrich von Liechtenstein" ;
+    schema:contentRating 3.85e+00,
+        " ",
+        "13" ;
+    schema:datePublished "October 1st 2004" ;
+    schema:description "Ulrich von Liechtenstein's extraordinary account of his adventures as a knight-errant is one of the most vivid images of chivalric life to have come down to us. His knightly autobiography was written in the mid-thirteenth century, and gives an account of the 'journey of Venus' which he undertook in 1226 in honour of his lady, in which he claimed to have broken 307 spears in jousts against all comers in the space of a month. Some of it is obviously quietly exaggerated, written for his friends' entertainment many years later, and he is not above a sly dig at the conventions of courtly love, but he completely accepts its basic ideas. It is full of lively episodes and good stories, as well as verses in honour of his lady; if the tale has been polished up for effect, it is nonetheless a thoroughly entertaining account of how a knight saw his ideal career in the jousting field. If the name is unexpectedly familiar to modern readers, it is because it was borrowed by the hero of the film 'A Knight's Tale'; Ulrich would have certainly approved of his exploits. Introduction by KELLY DEVRIES." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1042-1125998.Service_of_Ladies.html" ;
+    schema:publisher "Boydell Press" ;
+    schema:review "1" ;
+    foaf:name "Service of Ladies: An Autobiography" .
+
+<478> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1906469229" ;
+    my_ns:ISBN13 "9781906469221" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "6.00(w) x 9.00(h) x 0.82(d)" ;
+    my_ns:pageCount "386" ;
+    my_ns:pages "398" ;
+    schema:author "Deborah T. Meem",
+        "Eliza Lynn Linton",
+        "Kate Holterhoff" ;
+    schema:contentRating 3e+00,
+        " ",
+        "8" ;
+    schema:datePublished "September 1st 2011" ;
+    schema:description "This is a critical edition of Eliza Lynn Linton's semi-autobiographical novel in which she adopts a male persona in order to recount her relationships with other women. This edition includes an introduction, explanatory footnotes and extracts from other relevant works." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1434-13056754-the-autobiography-of-christopher-kirkland.html" ;
+    schema:publisher "Victorian Secrets" ;
+    schema:review "1" ;
+    foaf:name "The Autobiography of Christopher Kirkland" .
+
+<48> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0374229953" ;
+    my_ns:ISBN13 "9780374229955" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "6.00(w) x 9.00(h) x (d)" ;
+    my_ns:pageCount "177" ;
+    my_ns:pages "178" ;
+    schema:author " ",
+        "Mary Boyd Higgins",
+        "Wilhelm Reich" ;
+    schema:contentRating 4.06e+00,
+        " ",
+        "18" ;
+    schema:datePublished "August 1st 1988" ;
+    schema:description " " ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1043-2160308.Passion_of_Youth.html" ;
+    schema:publisher "Farrar Straus Giroux" ;
+    schema:review "0" ;
+    foaf:name "Passion of Youth: An Autobiography, 1897-1922" .
+
+<53> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1851775641" ;
+    my_ns:ISBN13 "9781851775644" ;
+    my_ns:Nookbookprice "$8.49" ;
+    my_ns:Paperbackprice "$15.95" ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "5.00(w) x 7.75(h) x 0.50(d)" ;
+    my_ns:pageCount "216" ;
+    my_ns:pages "216" ;
+    schema:author " ",
+        "Paul Poiret",
+        "Stephen Haden Guest" ;
+    schema:contentRating 3.64e+00,
+        " ",
+        "11" ;
+    schema:datePublished "May 1st 2009" ;
+    schema:description "‘For lovers of fashion and Art Deco … a must-read’- Irish Tatler An extraordinary story, Paul Poiret's 1931 autobiography describes the meteoric rise of a draper's son to become the \"King of Fashion.\" From his humble Parisian childhood to his debut as a couturier to his experiences during WWI, Poiret reveals all in this captivating tale. A remarkable testament to the energy of the Art Deco movement, Poiret's memoir recounts how his artistic flair, coupled with his exceptional and highly original cutting skills, enabled him to translate the spirit of the era into revolutionary garments. An astute businessman, Poiret describes the expansion of his fashion empire to encompass furniture, decor, and the first designer perfume, and recalls the extravagant Oriental garden parties at which his guests would parade his latest creations. This book, out of print for decades, offers an evocative inside look at the life of a celebrated figure in fashion history." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1048-6045025-king-of-fashion.html" ;
+    schema:publisher "Victoria & Albert Museum" ;
+    schema:review "1" ;
+    foaf:name "King of Fashion: The Autobiography of Paul Poiret" .
+
+<55> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1878972081" ;
+    my_ns:ISBN13 "9781878972088" ;
+    my_ns:Nookbookprice "$12.99" ;
+    my_ns:Paperbackprice "$12.65" ;
+    my_ns:Salesrank "204,543" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "328" ;
+    my_ns:pages "320" ;
+    schema:author " ",
+        "Gertrude Stein" ;
+    schema:contentRating 3.99e+00,
+        " ",
+        "211" ;
+    schema:datePublished "February 1st 2004" ;
+    schema:description "This sequel to Stein's Autobiography of Alice B. Toklas has been long misunderstood and neglected. An account of her experiences resulting from writing a bestseller, Everybody's Autobiography is funny and engaging, but also a seering meditation on the meaning of identity, success, and America. Stein at her most accessible and her most serious. Rejacketed and reprinted." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "105-197563.Everybody_s_Autobiography.html" ;
+    schema:publisher "Exact Change" ;
+    schema:review "14" ;
+    foaf:name "Everybody's Autobiography" .
+
+<559> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0233997806" ;
+    my_ns:ISBN13 "9780233997803" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "0" ;
+    my_ns:pages "352" ;
+    schema:author " ",
+        "Betty Driver",
+        "Daran Little" ;
+    schema:contentRating 2.67e+00,
+        " ",
+        "3" ;
+    schema:datePublished "May 1st 2000" ;
+    schema:description "Betty is a celebration of a showbusiness career." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1493-1603641.Betty.html" ;
+    schema:publisher "Andre Deutsch" ;
+    schema:review "0" ;
+    foaf:name "Betty: The Autobiography" .
+
+<56> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0876391404" ;
+    my_ns:ISBN13 "9780876391402" ;
+    my_ns:Nookbookprice "$15.49" ;
+    my_ns:Paperbackprice "$22.81" ;
+    my_ns:Salesrank "426,795" ;
+    my_ns:dimensions "8.90(w) x 5.90(h) x 1.10(d)" ;
+    my_ns:pageCount "384" ;
+    my_ns:pages "400" ;
+    schema:author " ",
+        "Gary Burton" ;
+    schema:contentRating 4.19e+00,
+        " ",
+        "52" ;
+    schema:datePublished "August 1st 2013" ;
+    schema:description "(Berklee Press). Winner \"Best Book of the Year\" 2014 award from the Jazz Journalists Association. In Learning to Listen, Gary Burton shares his 50 years of experiences at the top of the jazz scene. A seven-time Grammy Award-winner, Burton made his first recordings at age 17, has toured and recorded with a who's who of famous jazz names, and is one of only a few openly gay musicians in jazz. Burton is a true innovator, both as a performer and an educator. His autobiography is one of the most personal and insightful jazz books ever written." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1050-17918307-learning-to-listen.html" ;
+    schema:publisher "Berklee Press Publications" ;
+    schema:review "10" ;
+    foaf:name "Learning to Listen: The Jazz Journey of Gary Burton: An Autobiography" .
+
+<563> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0233997806" ;
+    my_ns:ISBN13 "9780233997803" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "0" ;
+    my_ns:pages "352" ;
+    schema:author " ",
+        "Betty Driver",
+        "Daran Little" ;
+    schema:contentRating 2.67e+00,
+        " ",
+        "3" ;
+    schema:datePublished "May 1st 2000" ;
+    schema:description "Betty is a celebration of a showbusiness career." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1495-1603641.Betty.html" ;
+    schema:publisher "Andre Deutsch" ;
+    schema:review "0" ;
+    foaf:name "Betty: The Autobiography" .
+
+<57> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0140087273" ;
+    my_ns:ISBN13 "9780140087277" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$29.75" ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "5.40(w) x 8.40(h) x 0.80(d)" ;
+    my_ns:pageCount "224" ;
+    my_ns:pages "256" ;
+    schema:author " ",
+        "Norman Lewis" ;
+    schema:contentRating 4.52e+00,
+        " ",
+        "21" ;
+    schema:datePublished "July 7th 1987" ;
+    schema:description " " ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1051-644431.Jackdaw_Cake.html" ;
+    schema:publisher "Penguin Books" ;
+    schema:review "2" ;
+    foaf:name "Jackdaw Cake: An Autobiography" .
+
+<61> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "140191182X" ;
+    my_ns:ISBN13 "9781401911829" ;
+    my_ns:Nookbookprice "$2.99" ;
+    my_ns:Paperbackprice "$14.58" ;
+    my_ns:Salesrank "820,395" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "384" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Caroline Myss",
+        "Edith Ellis" ;
+    schema:contentRating 4.21e+00,
+        "14",
+        "2.6" ;
+    schema:datePublished "June 1st 2006" ;
+    schema:description "This book, with a Foreword by best-selling author Caroline Myss, is a fascinating example of channeled literature, adding a very human personality to the stiff figure of George Washington often seen in his portraits. Here, we encounter a three-dimensional Washington, replete with his loves, fears, philosophy, and repeated encounters with the spirit world. This is an unforgettable and intimate view of the Founding Father of America, as told to Edith Ellis." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1055-6472.An_Autobiography_of_George_Washington.html" ;
+    schema:publisher "Hay House" ;
+    schema:review "3" ;
+    foaf:name "An Autobiography of George Washington" .
+
+<63> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice "$8.99" ;
+    my_ns:Paperbackprice "$15.33" ;
+    my_ns:Salesrank "1,127,218" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "274" ;
+    my_ns:pages "272" ;
+    schema:author " ",
+        "Paul Galvin" ;
+    schema:contentRating 3.91e+00,
+        " ",
+        "22" ;
+    schema:datePublished "October 30th 2014" ;
+    schema:description "One of the greatest GAA footballers of the modern era, Paul Galvin has enjoyed a brilliant and at times controversial career. Winning four senior All Ireland medals with Kerry and eight Munster championships, he was also a three-time All Star and 2009 Footballer of the Year. His inter-county career took off in the late 1990s, when he picked up a Munster minor championship medal in 1997 and another at under-21 level in 1999. But it was in the senior team throughout the 2000s that Paul came into his own. In a period defined by great rivalry with Tyrone, he became a key playmaker for Kerry, never failing to give his all in pursuit of victory. Over the course of a career marked by courage, physicality and an intense passion for the Green and Gold, there were many glorious days. There were other days too, with controversial incidents that led to a number of suspensions, most notably in 2008, the year in which Paul also had the honour of being the Kerry captain. 2009 brought redemption. But 2010 presented new challenges. In this fiercely honest autobiography, Paul offers – in his own words – a compelling, unflinching account of a career that has fascinated football fans for over a decade." ;
+    schema:encodingFormat "Kindle Edition" ;
+    schema:inLanguage "English" ;
+    schema:name "1057-23517831-in-my-own-words.html" ;
+    schema:publisher "Transworld Digital" ;
+    schema:review "1" ;
+    foaf:name "In My Own Words: The Autobiography" .
+
+<67> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1849017204" ;
+    my_ns:ISBN13 "9781849017206" ;
+    my_ns:Nookbookprice "$5.99" ;
+    my_ns:Paperbackprice "$18.25" ;
+    my_ns:Salesrank "384,900" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "320" ;
+    my_ns:pages "300" ;
+    schema:author " ",
+        "Jon E. Lewis" ;
+    schema:contentRating 3.17e+00,
+        "4.6",
+        "6" ;
+    schema:datePublished " " ;
+    schema:description "A stunning anthology of over 100 eyewitness accounts from the men of theSAS to tie in with the 70th anniversary of the founding of the regiment. SAS: Britain s Elite Special Forces in Their Own Words is the story of the world s mostfamous special forces regiment, written by the troopers and officers who reallyknow it. From the dust of the wartime desert and raids on Luftwaffe aircraft tosniping al-Qaeda in the far mountains of Afghanistan, SAS takes the reader on afast-paced history of the regiment and clears some of the smoke away from theirmysterious operations." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1060-12802906-sas.html" ;
+    schema:publisher " " ;
+    schema:review "0" ;
+    foaf:name "SAS: The Autobiography" .
+
+<68> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "300" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Branislav Nushich" ;
+    schema:contentRating 4.7e+00,
+        " ",
+        "10" ;
+    schema:datePublished " " ;
+    schema:description "In this book Branislav Nushich tells us about his young years: about school, barracks and prison. But you've never read nothing like this before. The pages speak the language of the humour and sarcasm typical of the Balkans. You will laught throught the book but in the end you will make a philosophical conclusion for whole life." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "Serbian" ;
+    schema:name "1061-23207244-autobiography.html" ;
+    schema:publisher " " ;
+    schema:review "0" ;
+    foaf:name "Autobiography" .
+
+<692> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0888783698" ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " ",
+        "730,534" ;
+    my_ns:dimensions "0.81(w) x 6.14(h) x 9.21(d)",
+        "5.51(w) x 7.87(h) x (d)" ;
+    my_ns:pageCount "86" ;
+    my_ns:pages "192",
+        "396" ;
+    schema:author " ",
+        "Marilyn Bowering" ;
+    schema:contentRating 3e+00,
+        " ",
+        "1" ;
+    schema:datePublished "1996" ;
+    schema:description " " ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1610-23575119-autobiography.html" ;
+    schema:publisher "Beach Holme Publishers" ;
+    schema:review "0" ;
+    foaf:name "Autobiography" .
+
+<694> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " ",
+        "730,534" ;
+    my_ns:dimensions "0.81(w) x 6.14(h) x 9.21(d)",
+        "5.51(w) x 7.87(h) x (d)" ;
+    my_ns:pageCount "444" ;
+    my_ns:pages "192",
+        "396" ;
+    schema:author " ",
+        "Maria Valtorta" ;
+    schema:contentRating 0e+00,
+        " ",
+        "0" ;
+    schema:datePublished "1969" ;
+    schema:description " " ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage " " ;
+    schema:name "1612-13501652-autobiography.html" ;
+    schema:publisher "Centro Editoriale Valtortiano" ;
+    schema:review "0" ;
+    foaf:name "Autobiography" .
+
+<70> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "049100379X" ;
+    my_ns:ISBN13 "9780491003797" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " ",
+        "730,534" ;
+    my_ns:dimensions "0.81(w) x 6.14(h) x 9.21(d)",
+        "5.51(w) x 7.87(h) x (d)" ;
+    my_ns:pageCount "0" ;
+    my_ns:pages "192",
+        "396" ;
+    schema:author " ",
+        "Margaret  Rutherford" ;
+    schema:contentRating 3.67e+00,
+        " ",
+        "3" ;
+    schema:datePublished "NaN"^^xsd:double ;
+    schema:description " " ;
+    schema:encodingFormat " " ;
+    schema:inLanguage " " ;
+    schema:name "1063-3107095-autobiography.html" ;
+    schema:publisher "W. H. Allen" ;
+    schema:review "0" ;
+    foaf:name "Autobiography" .
+
+<71> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0140128506" ;
+    my_ns:ISBN13 "9780140128505" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$13.89" ;
+    my_ns:Salesrank "619,276" ;
+    my_ns:dimensions "6.00(w) x 9.00(h) x 0.80(d)" ;
+    my_ns:pageCount "336" ;
+    my_ns:pages "314" ;
+    schema:author " ",
+        "Ingmar Bergman",
+        "Joan Tate" ;
+    schema:contentRating 4.06e+00,
+        " ",
+        "1147" ;
+    schema:datePublished "November 1st 1989" ;
+    schema:description "Ingmar Bergman, creator of such films as Wild Strawberries, Scenes from a Marriage and Fanny and Alexander turns his perceptive filmmaker's eye on himself for a revealing portrait of his life and obsessions. 16 pages of photos." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1064-213812.The_Magic_Lantern.html" ;
+    schema:publisher "Penguin Books" ;
+    schema:review "80" ;
+    foaf:name "The Magic Lantern: An Autobiography" .
+
+<72> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$90.00" ;
+    my_ns:ISBN "023113813X" ;
+    my_ns:ISBN13 "9780231138130" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$29.00" ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "6.30(w) x 9.40(h) x 1.30(d)" ;
+    my_ns:pageCount "335" ;
+    my_ns:pages "432" ;
+    schema:author " ",
+        "Hiratsuka Raicho",
+        "Teruko Craig" ;
+    schema:contentRating 3.6e+00,
+        " ",
+        "10" ;
+    schema:datePublished "March 5th 2010" ;
+    schema:description "\"In the beginning, woman was truly the sun. An authentic person. Now she is the moon, a wan and sickly moon, dependent on another, reflecting another's brilliance.\"-Hiratsuku Raicho Raicho Hiratsuka (1886-1971) was the most influential figure in the early women's movement in Japan. In 1911, she founded \"Bluestocking\" (\"Seito\"), Japan's first literary journal run by women. In 1920, she founded the New Women's Association, Japan's first nationwide women's organization to campaign for female suffrage, and soon after World War II, the Japan Federation of Women's Organizations. Available for the first time in English, \"In the Beginning, Woman Was the Sun\" is Raicho Hiratsuka's autobiography of her childhood, early youth, and subsequent rebellion against the strict social codes of the time. Hiratsuka came from an upper-middle class Tokyo family, and her restless quest for truth led her to read widely in philosophy and undertake Zen training at Japan Woman's College. After graduation, she gained brief notoriety for her affair with a married writer, but quickly established herself as a brilliant and articulate leader of feminist causes with the launch of the journal \"Seito.\" Her richly detailed account presents a woman who was at once idealistic and elitist, fearless and vain, and a perceptive observer of society. Teruko Craig's translation captures Hiratsuka's strong personality and distinct voice. At a time when interest in Japanese feminism is growing in the West, there is no finer introduction to Japanese women's history than this intimate, candid, and compelling memoir." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1065-8263265-in-the-beginning-woman-was-the-sun.html" ;
+    schema:publisher "Columbia University Press" ;
+    schema:review "1" ;
+    foaf:name "In the Beginning, Woman Was the Sun: The Autobiography of a Japanese Feminist" .
+
+<79> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "0963457497" ;
+    my_ns:ISBN13 "9780963457493" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice "$11.06" ;
+    my_ns:Salesrank "1,388,403" ;
+    my_ns:dimensions "5.20(w) x 8.30(h) x 1.00(d)" ;
+    my_ns:pageCount "330" ;
+    my_ns:pages "340" ;
+    schema:author " ",
+        "Irina Tweedie",
+        "Llewellyn Vaughan-Lee" ;
+    schema:contentRating 4.52e+00,
+        " ",
+        "25" ;
+    schema:datePublished "July 1st 1997" ;
+    schema:description "An amazing account of age-old spiritual transformation taking place in the modern world." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage "English" ;
+    schema:name "1071-1790432.The_Face_Before_I_Was_Born.html" ;
+    schema:publisher "The Golden Sufi Center" ;
+    schema:review "1" ;
+    foaf:name "The Face Before I Was Born: A Spiritual Autobiography" .
+
+<8> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1852252545" ;
+    my_ns:ISBN13 "9781852252540" ;
+    my_ns:Nookbookprice "$14.49" ;
+    my_ns:Paperbackprice "$14.49" ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "320" ;
+    my_ns:pages "432" ;
+    schema:author " ",
+        "Jenny Pitman" ;
+    schema:contentRating 4.1e+00,
+        " ",
+        "21" ;
+    schema:datePublished "November 5th 1998" ;
+    schema:description "To use modern parlance, Jenny Pitman OBE faced a double whammy when she applied for her trainer's licence. First, she was an outsider to the world of racing; second, and more importantly, she was a woman in what was still very much a man's world. As she tells us in her frank and entertaining autobiography, simply titled Jenny Pitman , she overcame the first problem much easier than beating the second. Known throughout the equine world as the first woman of racing, Mrs Pitman--now Mrs Stait after marrying her long-time partner David Stait in early 1998--is still having to bang her head against the brick wall that is sex discrimination. She tells how, after entering a fitness regime at the beginning of 1998 and looking and feeling better than she had for years, a male colleague asked whether or not her sex life had improved as she appeared so fit and healthy! But racing has been Jenny Pitman's life and the book is a no-holds barred account of a truly remarkable career. After telling of her happy childhood as the middle child of seven spent on a Leicestershire farm run by her parents, she describes the happiness she felt at her teenage marriage to jockey Richard Pitman. That joy was to turn to tears 10 years later when her first husband, and father of Jenny's two boys Mark and Paul, twice walked out on her. However, the outwardly tough-as-teak Jenny gritted her teeth and got on with the job of training racehorses. Jenny has achieved success in the world's toughest races and she fully describes the joy and heartbreak of landing two (it should have been three but Esha Ness's success came in the 1993 void race) Grand Nationals. Then there were the other Grand Nationals, the Scottish, Welsh and finally to complete the set, Irish versions of the event. In 1984 she became the only woman to train a Cheltenham Gold Cup winner and followed that up when the same horse, Burrough Hill Lad, became the first trained by a woman to land the coveted Hennessy Cognac Gold Cup. That was a record which stood until Venetia Williams took 1998's running. It is a frank book which covers and fully explains her run-ins with officialdom, press and even jockeys. The lead-up to her spat with Jamie Osborne is fully explained, as are the reasons behind her famous letter to Aintree officials over the state of the ground at 1998's Grand National. All in all, an enjoyable and informative read in which Mrs Pitman, as usual, pulls no punches." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1007-2966832-jenny-pitman.html" ;
+    schema:publisher "Partridge Press" ;
+    schema:review "4" ;
+    foaf:name "Jenny Pitman: The Autobiography" .
+
+<83> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1550139304" ;
+    my_ns:ISBN13 "9781550139303" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank " " ;
+    my_ns:dimensions "6.06(w) x 8.74(h) x 0.79(d)" ;
+    my_ns:pageCount "288" ;
+    my_ns:pages "288" ;
+    schema:author " ",
+        "Doris Anderson" ;
+    schema:contentRating 4.21e+00,
+        " ",
+        "14" ;
+    schema:datePublished "May 17th 2002" ;
+    schema:description "During her twenty years as the editor of Chatelaine magazine, Doris Anderson blazed a trail for Canadian women. Long before Betty Friedan's The Feminine Mystique was published, Anderson was writing about abortion, child care, custody arrangements, and pay equity. Her editorials laid the foundation for the feminist movement in Canada. In Rebel Daughter, we are introduced to the life of this fascinating and influential woman. We learn of her turbulent early years in Depression-era Alberta and her sometimes frustrating efforts to establish herself as a professional journalist in Toronto in the 1940s. We are given a behind-the-scenes look at her often stormy years with Maclean Hunter and at her decades-long editorship of Chatelaine. We experience her struggles as head of the Canadian Advisory Council on the Status of Women and her fight to have one simple statement enshrined in the Charter of Rights and Freedoms: that men and women are equal under the law. Hard-hitting, moving, controversial, and inspirational, Rebel Daughter is the no-holds-barred story of an exceptional Canadian woman." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage " " ;
+    schema:name "1075-2999728-rebel-daughter.html" ;
+    schema:publisher "Key Porter Books" ;
+    schema:review "2" ;
+    foaf:name "Rebel Daughter : An Autobiography" .
+
+<86> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "039304677X" ;
+    my_ns:ISBN13 "9780393046779" ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "565,435" ;
+    my_ns:dimensions "6.00(w) x 9.30(h) x 1.60(d)" ;
+    my_ns:pageCount "720" ;
+    my_ns:pages "711" ;
+    schema:author " ",
+        "Gore Vidal",
+        "Jay Parini" ;
+    schema:contentRating 4.12e+00,
+        " ",
+        "8" ;
+    schema:datePublished "March 17th 1999" ;
+    schema:description "From Mary Rowlandson's story of her capture by Indians in the mid-seventeenth century to Mary Paik Lee's story of being a pioneer Korean woman in America at the beginning of the twentieth century, the autobiographical form has provided our most vivid, intimate glimpses of daily American life and self-understanding. In this groundbreaking anthology, respected writer and critic Jay Parini brings together an abundant selection from over three centuries of \"the democratic voice . . . discovering itself.\" Here are the voices of the Founding Fathers and African American slaves; of transcendentalists and suffragists; of ancestors such as Frederick Douglass, Harriet Jacobs, Mark Twain, Henry James, Helen Keller, Zora Neale Hurston, Gertrude Stein, Ernest Hemingway, James Baldwin, and many others; and of a wide range of contemporaries, including Maxine Hong Kingston, Gore Vidal, Julia Alvarez, and Mark Doty. The rich, continuous influence of autobiographical writing in our culture is clear, and as memoirs continue to fascinate readers, this invaluable anthology provides an essential guide to our foremost American literary tradition." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1078-2761023-the-norton-book-of-american-autobiography.html" ;
+    schema:publisher "W. W. Norton & Company" ;
+    schema:review "2" ;
+    foaf:name "The Norton Book of American Autobiography" .
+
+<884> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "1848272057" ;
+    my_ns:ISBN13 "9781848272057" ;
+    my_ns:Nookbookprice "$8.99" ;
+    my_ns:Paperbackprice "$15.33" ;
+    my_ns:Salesrank "1,127,218" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "272" ;
+    my_ns:pages "272" ;
+    schema:author " ",
+        "Paul Galvin" ;
+    schema:contentRating 3e+00,
+        " ",
+        "7" ;
+    schema:datePublished "October 30th 2014" ;
+    schema:description "One of the greatest GAA footballers of the modern era, Paul Galvin has enjoyed a brilliant and at times controversial career. Winning four senior All Ireland medals with Kerry and eight Munster championships, he was also a three-time All Star and 2009 Footballer of the Year. His inter-county career took off in the late 1990s, when he picked up a Munster minor championship medal in 1997 and another at under-21 level in 1999. But it was in the senior team throughout the 2000s that Paul came into his own. In a period defined by great rivalry with Tyrone, he became a key playmaker for Kerry, never failing to give his all in pursuit of victory. Over the course of a career marked by courage, physicality and an intense passion for the Green and Gold, there were many glorious days. There were other days too, with controversial incidents that led to a number of suspensions, most notably in 2008, the year in which Paul also had the honour of being the Kerry captain. 2009 brought redemption. But 2010 presented new challenges. In this fiercely honest autobiography, Paul offers – in his own words – a compelling, unflinching account of a career that has fascinated football fans for over a decade." ;
+    schema:encodingFormat "Paperback" ;
+    schema:inLanguage " " ;
+    schema:name "1785-23347226-in-my-own-words.html" ;
+    schema:publisher "Transworld Ireland" ;
+    schema:review "0" ;
+    foaf:name "In My Own Words: The Autobiography" .
+
+<908> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice " " ;
+    my_ns:ISBN "NaN"^^xsd:double ;
+    my_ns:ISBN13 " " ;
+    my_ns:Nookbookprice " " ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "118,622" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "371" ;
+    my_ns:pages "200" ;
+    schema:author " ",
+        "Brian P. Easton" ;
+    schema:contentRating 4.46e+00,
+        " ",
+        "13" ;
+    schema:datePublished "April 21st 2015" ;
+    schema:description "Sylvester Logan James' feud with the Beast has wracked his body and bedeviled his soul, but after twenty-five years it has failed to satisfy his need for vengeance. When a werewolf delivers a pair of severed heads, Sylvester Logan James finds himself embroiled in an ancient grudge between the First Beast Prince and the seven Wolves who tried to overthrow him. Baited by a trail of dead werewolves and tracking a particularly cunning Wolf with its own agenda, Sylvester journeys across the world–from Belize to Botswana, Morocco to Malta, and Cyprus into the Himalaya on the most important hunt of his life, one that will lead him into the very lair of the Beast and to the werewolf who was once his mother. Here is one last, unflinching entry in the Autobiography of a Werewolf Hunter–a final measure of redemptive violence where every victory is dearly purchased and honor is poisoned by shame. Don’t look away." ;
+    schema:encodingFormat "Kindle Edition" ;
+    schema:inLanguage "English" ;
+    schema:name "1807-25377989-the-lineage.html" ;
+    schema:publisher "Permuted Press" ;
+    schema:review "4" ;
+    foaf:name "The Lineage (Autobiography of a Werewolf Hunter Book 3)" .
+
+<93> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$29.95" ;
+    my_ns:ISBN "184954686X" ;
+    my_ns:ISBN13 "9781849546867" ;
+    my_ns:Nookbookprice "$6.49" ;
+    my_ns:Paperbackprice " " ;
+    my_ns:Salesrank "610,084" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "384" ;
+    my_ns:pages "384" ;
+    schema:author " ",
+        "Roger Bannister" ;
+    schema:contentRating 3.79e+00,
+        " ",
+        "14" ;
+    schema:datePublished "April 17th 2014" ;
+    schema:description "It was a blustery late spring day in 1954 and a young Oxford medical student flung himself over the line in a mile race. There was an agonising pause, and then the timekeeper announced the record: three minutes, fifty-nine point four seconds. But no one heard anything after that first word – ‘three’. One of the most iconic barriers of sport had been broken, and Roger Bannister had become the first man to run a mile in under four minutes. To this day, more men have conquered Mount Everest than have achieved what the slender, unassuming student managed that afternoon. Sixty years on and the letters still arrive on Roger Bannister’s doormat, letters testifying to the enduring appeal of the four-minute mile and the example it set for the generation of budding athletes who were inspired to attempt the impossible. In this frank memoir, Sir Roger tells the full story of the talent and dedication that made him not just one of the most celebrated athletes of the last century but also a distinguished doctor, neurologist and one of the nation’s best-loved public figures. With characteristically trenchant views on drugs in sport, the nature of modern athletics and record breaking, the extraordinary explosion in running as a leisure activity, and the Olympic legacy, this rare and brilliant autobiography gives a fascinating insight into the life of a man who has lived life to the fullest." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "1084-21951193-twin-tracks.html" ;
+    schema:publisher "Biteback" ;
+    schema:review "4" ;
+    foaf:name "Twin Tracks: The Autobiography" .
+
+<99> a my_ns:book ;
+    my_ns:Audiobookprice " " ;
+    my_ns:Hardcoverprice "$30.00" ;
+    my_ns:ISBN "0446518654" ;
+    my_ns:ISBN13 "9780446518659" ;
+    my_ns:Nookbookprice "$9.99" ;
+    my_ns:Paperbackprice "$14.59" ;
+    my_ns:Salesrank "79,920" ;
+    my_ns:dimensions " " ;
+    my_ns:pageCount "418" ;
+    my_ns:pages " " ;
+    schema:author " ",
+        "Lenny Kaye",
+        "Waylon Jennings" ;
+    schema:contentRating 4.15e+00,
+        "349",
+        "5.0" ;
+    schema:datePublished "September 1st 1996" ;
+    schema:description "Waylon Jennings relates the story of his life as a country music star. His beginnings were poor but he became Buddy Holly's protege before sinking into drug abuse and 3 failed marriages. His success came when he met his present wife, Jessi Colter." ;
+    schema:encodingFormat "Hardcover" ;
+    schema:inLanguage "English" ;
+    schema:name "109-79193.Waylon.html" ;
+    schema:publisher "Warner Books" ;
+    schema:review "24" ;
+    foaf:name "Waylon: An Autobiography" .
+
