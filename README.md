@@ -1,5 +1,4 @@
-# DSCI-558-HW  
-Building Knowledge Graphs  
+# DSCI-558 Building Knowledge Graphs  
 - HW1: Crawling & Information Extraction  
 - HW2: Knowledge Representation & Entity Resolution  
 - HW3: SPARQL  
